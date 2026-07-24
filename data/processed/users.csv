@@ -1,0 +1,1201 @@
+customer_id,signup_date,city,device_type,acquisition_channel,app_version
+337525,2023-12-19 07:40:22,Hyderabad,Android,Referral,4.8.1
+358141,2023-12-25 16:13:39,Bangalore,Android,Organic,4.9.0
+66393,2023-09-13 08:16:28,Hyderabad,Android,Facebook,4.8.1
+106968,2023-09-14 19:37:14,Bangalore,Android,Organic,4.9.0
+76942,2023-10-25 16:22:31,Hyderabad,Android,Organic,4.9.0
+147468,2023-08-19 19:42:52,Bangalore,iOS,Google Ads,4.9.0
+157711,2023-12-02 02:38:12,Chennai,Android,Google Ads,4.9.0
+89574,2023-12-30 16:18:46,Mumbai,Android,Organic,4.8.1
+121706,2023-07-26 20:41:29,Mumbai,Android,Organic,4.8.1
+39705,2023-12-29 11:32:34,Delhi,iOS,Organic,4.9.0
+143926,2023-10-24 06:16:54,Hyderabad,Android,Organic,4.9.0
+221206,2023-12-16 19:43:06,Bangalore,Android,Organic,4.8.1
+129969,2023-10-19 05:44:42,Mumbai,iOS,Referral,4.8.1
+104548,2023-11-21 21:44:55,Mumbai,iOS,Organic,4.8.1
+62667,2023-09-22 09:10:12,Delhi,iOS,Organic,4.9.0
+66222,2023-12-19 22:27:47,Hyderabad,iOS,Google Ads,4.8.1
+104555,2023-10-20 10:35:19,Bangalore,Android,Facebook,4.9.0
+139885,2023-08-21 18:21:11,Bangalore,iOS,Google Ads,4.9.0
+47280,2023-10-30 20:07:30,Hyderabad,Android,Organic,4.9.0
+67487,2023-08-22 08:34:29,Mumbai,iOS,Organic,4.8.1
+250494,2023-09-24 16:54:12,Mumbai,Android,Facebook,4.9.0
+137565,2023-08-27 15:45:05,Hyderabad,iOS,Organic,4.8.1
+150599,2023-12-09 11:56:07,Pune,Android,Organic,4.9.0
+54630,2023-07-21 10:48:11,Mumbai,Android,Referral,4.9.0
+363783,2023-08-22 07:56:13,Bangalore,Android,Google Ads,4.8.1
+41877,2023-09-08 16:11:17,Bangalore,iOS,Google Ads,4.9.0
+371590,2023-08-08 17:06:09,Bangalore,iOS,Organic,4.9.0
+175290,2023-10-15 06:05:51,Bangalore,Android,Organic,4.9.0
+76686,2023-07-02 04:42:35,Bangalore,Android,Facebook,4.8.1
+149984,2023-07-15 14:45:52,Bangalore,Android,Organic,4.9.0
+318874,2023-12-20 01:07:23,Bangalore,Android,Google Ads,4.9.0
+302790,2023-10-22 05:57:13,Bangalore,iOS,Google Ads,4.9.0
+317794,2023-09-04 13:33:09,Chennai,Android,Google Ads,4.9.0
+105349,2023-12-05 02:05:48,Bangalore,Android,Organic,4.8.1
+181782,2023-10-21 05:19:39,Mumbai,iOS,Organic,4.9.0
+65224,2023-12-23 12:51:36,Hyderabad,Android,Referral,4.9.0
+148649,2023-10-16 16:54:08,Pune,Android,Instagram,4.9.0
+118709,2023-09-05 11:17:46,Bangalore,Android,Facebook,4.9.0
+208020,2023-11-01 04:14:50,Hyderabad,Android,Organic,4.8.1
+220693,2023-09-09 18:16:30,Pune,Android,Organic,4.8.1
+378482,2023-11-15 22:50:17,Chennai,Android,Facebook,4.8.1
+133637,2023-12-01 05:08:43,Delhi,Android,Google Ads,4.8.1
+107909,2023-08-24 15:28:59,Bangalore,iOS,Instagram,4.9.0
+365237,2023-12-01 03:17:35,Bangalore,Android,Organic,4.8.1
+322162,2023-10-23 11:05:50,Mumbai,iOS,Referral,4.8.1
+198802,2023-11-24 09:30:37,Chennai,Android,Google Ads,4.9.0
+122864,2023-08-07 21:55:09,Mumbai,Android,Google Ads,4.9.0
+52037,2023-07-01 23:30:54,Mumbai,Android,Organic,4.9.0
+81110,2023-08-29 13:53:01,Bangalore,Android,Organic,4.9.0
+300003,2023-07-23 14:52:34,Delhi,Android,Referral,4.8.1
+91817,2023-12-24 18:09:47,Bangalore,iOS,Organic,4.9.0
+112036,2023-11-03 01:19:50,Hyderabad,Android,Referral,4.9.0
+73895,2023-11-15 07:21:23,Hyderabad,Android,Facebook,4.8.1
+130507,2023-11-05 19:06:39,Mumbai,iOS,Organic,4.9.0
+129486,2023-10-04 09:38:00,Bangalore,Android,Instagram,4.9.0
+313340,2023-12-21 01:46:42,Bangalore,Android,Organic,4.8.1
+177250,2023-07-29 02:33:08,Mumbai,Android,Google Ads,4.8.1
+176234,2023-10-12 04:53:06,Bangalore,Android,Facebook,4.8.1
+371677,2023-07-31 19:44:06,Mumbai,Android,Organic,4.8.1
+388918,2023-11-05 00:40:52,Bangalore,Android,Organic,4.9.0
+68551,2023-09-02 15:42:00,Hyderabad,iOS,Organic,4.9.0
+152786,2023-11-04 20:10:14,Mumbai,Android,Organic,4.8.1
+62980,2023-09-15 20:41:53,Bangalore,Android,Google Ads,4.9.0
+82041,2023-12-25 14:47:31,Hyderabad,iOS,Facebook,4.9.0
+361616,2023-08-09 13:04:24,Bangalore,Android,Organic,4.9.0
+398426,2023-08-09 04:27:39,Bangalore,Android,Organic,4.9.0
+130820,2023-08-09 04:22:37,Pune,Android,Organic,4.8.1
+200074,2023-11-07 10:42:01,Hyderabad,iOS,Google Ads,4.9.0
+65009,2023-07-17 23:08:09,Delhi,Android,Organic,4.9.0
+170221,2023-07-01 18:55:48,Bangalore,Android,Referral,4.9.0
+58092,2023-07-22 03:07:45,Delhi,Android,Google Ads,4.9.0
+50616,2023-08-01 18:41:23,Delhi,Android,Google Ads,4.8.1
+133202,2023-11-14 09:58:51,Mumbai,iOS,Organic,4.9.0
+277898,2023-11-09 20:32:46,Hyderabad,iOS,Google Ads,4.8.1
+77341,2023-12-25 18:21:47,Hyderabad,Android,Organic,4.9.0
+97079,2023-08-16 22:48:38,Hyderabad,Android,Organic,4.9.0
+150002,2023-07-31 21:39:55,Chennai,Android,Instagram,4.8.1
+87472,2023-11-26 14:30:20,Chennai,iOS,Google Ads,4.9.0
+231061,2023-08-27 20:18:15,Pune,Android,Organic,4.8.1
+56722,2023-12-04 00:24:14,Bangalore,Android,Organic,4.9.0
+133617,2023-09-13 01:13:06,Delhi,Android,Organic,4.9.0
+67538,2023-11-30 15:07:57,Pune,Android,Organic,4.9.0
+57174,2023-07-22 15:42:08,Bangalore,Android,Organic,4.9.0
+78939,2023-08-18 02:14:59,Bangalore,Android,Organic,4.9.0
+309513,2023-11-04 16:34:57,Delhi,Android,Referral,4.9.0
+129798,2023-10-26 14:47:03,Mumbai,iOS,Google Ads,4.9.0
+184085,2023-09-11 08:04:19,Chennai,Android,Google Ads,4.9.0
+329710,2023-12-02 23:06:41,Bangalore,Android,Google Ads,4.8.1
+154030,2023-12-11 02:14:21,Delhi,Android,Organic,4.9.0
+86731,2023-07-27 16:23:33,Bangalore,Android,Facebook,4.8.1
+306119,2023-08-15 06:09:57,Bangalore,Android,Instagram,4.9.0
+164016,2023-09-03 07:53:39,Bangalore,Android,Instagram,4.8.1
+121476,2023-09-01 16:05:09,Delhi,Android,Instagram,4.8.1
+305522,2023-07-04 03:30:36,Mumbai,Android,Facebook,4.9.0
+68976,2023-08-11 11:45:02,Mumbai,Android,Referral,4.9.0
+60703,2023-10-30 08:15:13,Hyderabad,Android,Organic,4.8.1
+80460,2023-09-23 06:36:09,Chennai,iOS,Google Ads,4.8.1
+128600,2023-07-27 14:43:55,Hyderabad,Android,Google Ads,4.9.0
+142356,2023-10-08 08:49:37,Delhi,iOS,Google Ads,4.9.0
+83287,2023-07-31 18:28:25,Hyderabad,Android,Referral,4.8.1
+134152,2023-07-15 17:15:41,Hyderabad,Android,Organic,4.8.1
+345899,2023-08-13 15:01:55,Hyderabad,Android,Organic,4.9.0
+38050,2023-07-13 02:46:37,Hyderabad,Android,Facebook,4.8.1
+259341,2023-08-05 06:27:42,Delhi,iOS,Referral,4.9.0
+234089,2023-10-24 10:16:46,Mumbai,Android,Referral,4.9.0
+125123,2023-11-05 00:13:59,Bangalore,iOS,Organic,4.9.0
+365244,2023-07-07 12:51:25,Chennai,Android,Organic,4.8.1
+63020,2023-08-03 07:46:30,Hyderabad,Android,Instagram,4.9.0
+222879,2023-09-03 18:33:31,Mumbai,Android,Google Ads,4.9.0
+275535,2023-10-21 06:32:24,Chennai,Android,Instagram,4.9.0
+49793,2023-07-12 15:48:13,Mumbai,Android,Referral,4.9.0
+214394,2023-08-25 06:09:43,Bangalore,Android,Google Ads,4.9.0
+91907,2023-08-08 23:10:12,Pune,Android,Organic,4.9.0
+59419,2023-10-06 08:37:35,Mumbai,Android,Google Ads,4.9.0
+50199,2023-08-30 23:06:20,Hyderabad,Android,Organic,4.9.0
+325210,2023-09-29 08:41:53,Bangalore,iOS,Organic,4.9.0
+100999,2023-08-01 07:10:38,Delhi,iOS,Google Ads,4.9.0
+146588,2023-07-31 10:45:08,Mumbai,Android,Facebook,4.8.1
+310051,2023-08-10 10:44:39,Mumbai,Android,Organic,4.9.0
+128243,2023-09-02 20:33:29,Chennai,Android,Instagram,4.9.0
+53543,2023-07-21 11:00:40,Delhi,iOS,Organic,4.8.1
+230535,2023-12-26 11:56:43,Bangalore,Android,Organic,4.8.1
+127122,2023-09-16 19:42:51,Hyderabad,Android,Organic,4.9.0
+111125,2023-12-28 15:02:19,Bangalore,iOS,Organic,4.9.0
+144997,2023-11-05 08:12:28,Delhi,Android,Referral,4.9.0
+97991,2023-07-15 20:59:20,Bangalore,Android,Organic,4.8.1
+58533,2023-12-12 06:43:40,Mumbai,Android,Referral,4.9.0
+104336,2023-09-09 09:02:06,Delhi,Android,Facebook,4.8.1
+232582,2023-08-29 20:57:16,Chennai,Android,Organic,4.9.0
+195927,2023-07-17 11:57:52,Hyderabad,Android,Instagram,4.8.1
+373689,2023-07-01 13:36:24,Delhi,Android,Organic,4.8.1
+370372,2023-11-02 20:51:18,Bangalore,Android,Google Ads,4.8.1
+264707,2023-09-14 21:09:28,Chennai,iOS,Organic,4.8.1
+42385,2023-11-12 21:21:27,Bangalore,Android,Organic,4.8.1
+139085,2023-07-18 09:53:04,Hyderabad,Android,Organic,4.8.1
+198309,2023-12-17 04:09:15,Delhi,Android,Organic,4.9.0
+399478,2023-07-26 19:41:59,Bangalore,iOS,Organic,4.9.0
+40010,2023-09-19 07:48:39,Bangalore,Android,Google Ads,4.8.1
+48131,2023-10-26 08:52:14,Delhi,Android,Instagram,4.9.0
+41692,2023-11-25 05:07:22,Delhi,iOS,Instagram,4.8.1
+61305,2023-12-23 11:20:18,Mumbai,iOS,Google Ads,4.9.0
+123780,2023-07-21 02:31:35,Delhi,Android,Organic,4.8.1
+385248,2023-10-30 12:35:46,Mumbai,iOS,Organic,4.8.1
+97806,2023-08-25 07:54:10,Bangalore,Android,Organic,4.9.0
+52463,2023-09-25 10:49:04,Hyderabad,Android,Organic,4.9.0
+105068,2023-07-25 10:03:38,Bangalore,Android,Referral,4.9.0
+71791,2023-07-26 19:56:25,Chennai,Android,Referral,4.9.0
+362068,2023-11-26 23:31:50,Mumbai,Android,Organic,4.9.0
+298824,2023-11-09 05:04:57,Hyderabad,Android,Organic,4.8.1
+94524,2023-11-06 15:22:16,Hyderabad,Android,Instagram,4.8.1
+342107,2023-08-14 14:22:19,Pune,Android,Instagram,4.8.1
+62359,2023-10-27 10:13:28,Bangalore,iOS,Organic,4.8.1
+347181,2023-10-18 13:55:19,Mumbai,Android,Facebook,4.9.0
+60052,2023-07-12 12:41:47,Mumbai,Android,Facebook,4.9.0
+198936,2023-11-15 20:20:49,Mumbai,Android,Organic,4.8.1
+348787,2023-09-21 12:35:44,Bangalore,iOS,Organic,4.9.0
+184325,2023-08-22 14:39:43,Chennai,Android,Referral,4.9.0
+42935,2023-12-28 11:39:34,Pune,iOS,Facebook,4.8.1
+200672,2023-10-27 17:40:38,Mumbai,Android,Instagram,4.8.1
+75484,2023-08-13 08:56:29,Delhi,Android,Organic,4.8.1
+378027,2023-08-17 22:46:47,Chennai,Android,Organic,4.8.1
+93133,2023-10-01 10:53:24,Delhi,Android,Referral,4.8.1
+268958,2023-11-29 07:14:42,Bangalore,Android,Referral,4.9.0
+370017,2023-09-11 06:43:55,Mumbai,iOS,Organic,4.8.1
+146586,2023-08-11 16:37:59,Mumbai,Android,Instagram,4.8.1
+350085,2023-09-02 20:13:09,Hyderabad,Android,Google Ads,4.9.0
+292343,2023-07-25 13:21:30,Delhi,iOS,Instagram,4.9.0
+84700,2023-11-09 17:10:58,Pune,Android,Instagram,4.9.0
+53212,2023-12-20 05:48:48,Chennai,iOS,Google Ads,4.8.1
+373353,2023-07-06 16:27:14,Hyderabad,Android,Organic,4.8.1
+79255,2023-10-28 15:21:08,Bangalore,Android,Google Ads,4.9.0
+275689,2023-11-25 05:54:54,Pune,Android,Organic,4.8.1
+354719,2023-10-23 16:41:49,Chennai,Android,Google Ads,4.8.1
+17495,2023-09-01 12:20:18,Bangalore,iOS,Organic,4.9.0
+352247,2023-11-25 18:22:56,Chennai,Android,Google Ads,4.9.0
+300670,2023-11-26 02:42:12,Chennai,Android,Organic,4.9.0
+87747,2023-11-11 09:28:57,Mumbai,Android,Organic,4.9.0
+326426,2023-09-19 00:42:30,Mumbai,Android,Organic,4.9.0
+131645,2023-09-10 09:08:14,Hyderabad,iOS,Organic,4.8.1
+129518,2023-10-16 11:27:09,Bangalore,Android,Google Ads,4.8.1
+103005,2023-09-18 22:32:06,Hyderabad,Android,Google Ads,4.8.1
+140477,2023-09-07 03:46:34,Delhi,iOS,Referral,4.8.1
+105164,2023-12-07 03:37:44,Bangalore,Android,Organic,4.9.0
+160957,2023-12-28 12:42:54,Hyderabad,iOS,Organic,4.9.0
+361509,2023-09-26 11:29:18,Hyderabad,Android,Organic,4.9.0
+169478,2023-09-14 08:27:05,Mumbai,Android,Organic,4.8.1
+91192,2023-10-07 12:10:17,Chennai,Android,Instagram,4.8.1
+134294,2023-09-30 07:02:19,Hyderabad,Android,Organic,4.8.1
+365225,2023-10-29 10:22:04,Hyderabad,iOS,Organic,4.8.1
+279895,2023-11-02 07:09:38,Delhi,Android,Organic,4.8.1
+384391,2023-07-09 21:46:38,Hyderabad,Android,Organic,4.9.0
+328357,2023-08-31 06:14:55,Bangalore,Android,Referral,4.9.0
+41318,2023-12-26 20:28:22,Hyderabad,Android,Google Ads,4.9.0
+92832,2023-11-12 21:53:52,Bangalore,Android,Organic,4.9.0
+58871,2023-10-01 06:16:19,Bangalore,iOS,Organic,4.9.0
+231042,2023-08-08 13:17:48,Hyderabad,Android,Organic,4.8.1
+336162,2023-08-07 16:33:35,Hyderabad,Android,Organic,4.8.1
+76907,2023-07-11 02:52:51,Chennai,Android,Organic,4.8.1
+389740,2023-09-04 10:37:17,Hyderabad,Android,Facebook,4.9.0
+41168,2023-11-07 21:04:36,Mumbai,Android,Google Ads,4.9.0
+59749,2023-12-06 23:56:06,Mumbai,Android,Referral,4.8.1
+42832,2023-11-19 22:00:06,Bangalore,iOS,Organic,4.9.0
+91005,2023-07-12 06:25:48,Mumbai,Android,Organic,4.9.0
+128963,2023-08-08 16:53:34,Bangalore,Android,Referral,4.8.1
+124085,2023-09-20 18:25:46,Pune,Android,Google Ads,4.8.1
+105138,2023-10-20 03:14:43,Bangalore,iOS,Google Ads,4.9.0
+95164,2023-09-10 22:43:24,Hyderabad,Android,Organic,4.9.0
+263426,2023-11-15 06:11:43,Bangalore,Android,Referral,4.8.1
+142461,2023-08-30 02:39:02,Pune,Android,Organic,4.9.0
+263199,2023-08-04 05:57:14,Mumbai,Android,Instagram,4.8.1
+387227,2023-12-15 22:55:46,Mumbai,Android,Google Ads,4.9.0
+385559,2023-08-22 22:38:13,Bangalore,Android,Referral,4.9.0
+127149,2023-09-16 15:02:51,Delhi,Android,Organic,4.9.0
+136876,2023-07-01 12:06:25,Bangalore,Android,Google Ads,4.9.0
+103884,2023-12-10 01:40:57,Chennai,iOS,Organic,4.9.0
+38612,2023-12-18 15:35:08,Bangalore,iOS,Organic,4.9.0
+334619,2023-11-10 11:23:41,Bangalore,Android,Organic,4.8.1
+92996,2023-07-30 09:24:08,Bangalore,Android,Google Ads,4.9.0
+195723,2023-07-02 06:25:56,Hyderabad,Android,Organic,4.8.1
+111356,2023-07-19 05:39:17,Mumbai,Android,Organic,4.9.0
+367591,2023-12-17 11:46:35,Bangalore,Android,Instagram,4.9.0
+399121,2023-11-21 16:53:47,Delhi,Android,Organic,4.9.0
+260680,2023-12-26 19:00:59,Hyderabad,Android,Referral,4.9.0
+124838,2023-11-25 22:52:27,Mumbai,iOS,Organic,4.9.0
+295111,2023-10-30 15:54:59,Hyderabad,Android,Organic,4.8.1
+42052,2023-10-05 03:21:01,Hyderabad,Android,Instagram,4.9.0
+52832,2023-07-24 06:03:41,Mumbai,iOS,Organic,4.8.1
+120833,2023-07-14 21:44:42,Bangalore,Android,Referral,4.8.1
+94483,2023-07-07 06:38:55,Bangalore,Android,Referral,4.8.1
+49631,2023-11-14 20:03:05,Chennai,Android,Google Ads,4.9.0
+114085,2023-08-19 10:07:50,Pune,Android,Google Ads,4.9.0
+251607,2023-09-16 13:12:59,Hyderabad,iOS,Organic,4.9.0
+72339,2023-08-11 05:08:40,Bangalore,Android,Organic,4.9.0
+229946,2023-09-18 09:33:26,Mumbai,Android,Google Ads,4.8.1
+92726,2023-07-29 18:06:53,Hyderabad,iOS,Referral,4.8.1
+320493,2023-08-03 15:36:00,Bangalore,iOS,Instagram,4.9.0
+69348,2023-11-07 07:06:40,Bangalore,iOS,Instagram,4.9.0
+270149,2023-09-07 05:39:04,Delhi,Android,Instagram,4.9.0
+354016,2023-12-05 00:40:58,Mumbai,Android,Referral,4.8.1
+105754,2023-09-04 22:37:49,Bangalore,iOS,Organic,4.9.0
+157578,2023-07-26 20:50:00,Bangalore,iOS,Instagram,4.9.0
+350373,2023-09-18 23:02:11,Bangalore,Android,Referral,4.8.1
+47440,2023-08-20 00:37:32,Mumbai,Android,Organic,4.9.0
+85633,2023-09-06 09:16:24,Bangalore,Android,Instagram,4.9.0
+110091,2023-07-05 15:51:30,Bangalore,iOS,Instagram,4.9.0
+96877,2023-11-29 09:52:38,Delhi,Android,Referral,4.8.1
+261400,2023-07-30 11:53:41,Bangalore,Android,Organic,4.9.0
+177078,2023-11-23 21:21:11,Mumbai,Android,Organic,4.8.1
+68429,2023-11-19 03:33:46,Bangalore,Android,Instagram,4.8.1
+373633,2023-12-14 10:55:04,Bangalore,iOS,Facebook,4.9.0
+390490,2023-07-23 14:48:29,Bangalore,Android,Organic,4.9.0
+72639,2023-12-14 22:01:08,Delhi,iOS,Organic,4.8.1
+95644,2023-08-21 04:34:40,Chennai,iOS,Instagram,4.9.0
+129597,2023-11-11 02:49:22,Chennai,Android,Organic,4.9.0
+101084,2023-09-22 09:32:27,Hyderabad,Android,Referral,4.9.0
+46859,2023-10-05 08:08:55,Mumbai,Android,Facebook,4.9.0
+117810,2023-09-13 17:41:34,Bangalore,iOS,Organic,4.9.0
+49034,2023-07-17 00:30:50,Bangalore,Android,Google Ads,4.9.0
+113972,2023-11-21 16:25:25,Chennai,Android,Organic,4.8.1
+52360,2023-07-01 16:58:07,Bangalore,iOS,Organic,4.8.1
+83504,2023-12-05 08:44:15,Bangalore,Android,Instagram,4.9.0
+194778,2023-12-17 17:39:35,Bangalore,iOS,Organic,4.9.0
+105992,2023-09-13 04:31:47,Bangalore,Android,Facebook,4.9.0
+373486,2023-07-18 07:36:16,Bangalore,Android,Referral,4.8.1
+378923,2023-10-27 22:03:41,Mumbai,Android,Organic,4.8.1
+58898,2023-11-28 17:25:04,Hyderabad,iOS,Organic,4.9.0
+75115,2023-07-01 10:55:53,Chennai,Android,Organic,4.8.1
+59674,2023-09-14 01:15:31,Delhi,iOS,Organic,4.9.0
+115238,2023-08-08 21:20:11,Hyderabad,iOS,Organic,4.8.1
+368663,2023-09-27 14:21:49,Bangalore,Android,Organic,4.9.0
+128353,2023-08-19 07:13:42,Hyderabad,iOS,Referral,4.9.0
+355713,2023-08-27 09:40:17,Mumbai,Android,Google Ads,4.8.1
+269793,2023-09-05 06:26:10,Bangalore,Android,Google Ads,4.9.0
+100778,2023-07-05 19:48:00,Mumbai,Android,Google Ads,4.8.1
+183520,2023-12-24 18:05:24,Hyderabad,iOS,Organic,4.9.0
+391860,2023-12-26 11:37:20,Mumbai,Android,Organic,4.9.0
+334373,2023-09-20 20:38:15,Hyderabad,Android,Google Ads,4.9.0
+370405,2023-09-25 00:48:16,Bangalore,Android,Referral,4.9.0
+64153,2023-08-27 11:10:50,Pune,Android,Organic,4.9.0
+314480,2023-07-10 09:52:48,Delhi,Android,Instagram,4.8.1
+232035,2023-07-03 14:34:41,Bangalore,iOS,Instagram,4.8.1
+80434,2023-11-11 04:11:45,Chennai,iOS,Referral,4.9.0
+81166,2023-08-13 18:47:55,Hyderabad,Android,Organic,4.9.0
+91397,2023-08-04 16:09:25,Chennai,iOS,Instagram,4.9.0
+237592,2023-09-28 12:21:42,Delhi,Android,Referral,4.9.0
+91879,2023-09-03 18:11:48,Hyderabad,iOS,Instagram,4.9.0
+22405,2023-09-04 16:18:39,Bangalore,Android,Instagram,4.9.0
+290693,2023-10-09 05:02:24,Bangalore,Android,Instagram,4.9.0
+64658,2023-09-15 11:54:40,Mumbai,Android,Referral,4.9.0
+365401,2023-09-02 15:51:46,Mumbai,iOS,Organic,4.9.0
+301032,2023-08-20 14:28:13,Bangalore,Android,Google Ads,4.8.1
+100536,2023-07-19 01:48:49,Bangalore,Android,Google Ads,4.8.1
+232359,2023-12-26 12:01:56,Chennai,Android,Google Ads,4.8.1
+360844,2023-08-28 05:39:55,Pune,Android,Organic,4.8.1
+353606,2023-10-31 19:36:57,Mumbai,Android,Organic,4.8.1
+109221,2023-09-02 09:40:47,Bangalore,Android,Instagram,4.9.0
+78318,2023-10-13 23:31:17,Bangalore,iOS,Google Ads,4.9.0
+118776,2023-11-19 19:43:50,Bangalore,Android,Facebook,4.9.0
+92806,2023-07-13 22:50:43,Chennai,Android,Instagram,4.9.0
+130521,2023-11-13 15:01:10,Bangalore,Android,Referral,4.8.1
+52031,2023-10-31 15:11:51,Mumbai,iOS,Google Ads,4.8.1
+304708,2023-12-10 04:22:18,Bangalore,iOS,Instagram,4.8.1
+74925,2023-09-21 05:07:10,Mumbai,Android,Referral,4.9.0
+104130,2023-10-26 05:48:21,Mumbai,Android,Google Ads,4.8.1
+150865,2023-07-30 14:37:11,Delhi,Android,Organic,4.8.1
+331608,2023-09-16 01:58:28,Bangalore,Android,Referral,4.9.0
+363561,2023-12-16 23:51:15,Bangalore,iOS,Google Ads,4.9.0
+235620,2023-11-24 20:43:13,Bangalore,Android,Organic,4.8.1
+118975,2023-08-05 15:39:49,Chennai,Android,Organic,4.9.0
+128224,2023-07-20 05:38:29,Chennai,Android,Organic,4.9.0
+109419,2023-07-31 17:48:58,Mumbai,iOS,Organic,4.9.0
+63417,2023-07-02 06:34:38,Mumbai,Android,Organic,4.9.0
+55334,2023-07-23 04:07:11,Mumbai,Android,Organic,4.8.1
+301618,2023-09-12 01:55:27,Bangalore,Android,Facebook,4.8.1
+47386,2023-12-10 14:44:48,Chennai,iOS,Referral,4.9.0
+122609,2023-10-22 08:11:52,Hyderabad,Android,Organic,4.9.0
+391746,2023-07-24 05:49:47,Hyderabad,Android,Organic,4.9.0
+62027,2023-07-20 04:51:06,Mumbai,Android,Google Ads,4.9.0
+237616,2023-11-23 09:22:13,Bangalore,Android,Organic,4.9.0
+103526,2023-07-25 20:53:35,Bangalore,Android,Instagram,4.9.0
+68965,2023-09-24 03:15:40,Delhi,Android,Google Ads,4.9.0
+403833,2023-11-21 15:57:54,Bangalore,Android,Instagram,4.9.0
+61588,2023-08-22 03:44:19,Mumbai,Android,Organic,4.8.1
+376578,2023-09-25 12:05:15,Bangalore,Android,Google Ads,4.9.0
+212469,2023-09-27 15:20:26,Hyderabad,iOS,Organic,4.8.1
+104563,2023-09-13 02:53:23,Bangalore,Android,Facebook,4.8.1
+235818,2023-08-17 20:41:54,Hyderabad,iOS,Google Ads,4.9.0
+399520,2023-07-11 12:58:01,Delhi,Android,Organic,4.8.1
+142773,2023-07-19 14:33:38,Bangalore,Android,Organic,4.8.1
+355592,2023-08-15 02:27:10,Mumbai,Android,Organic,4.8.1
+197265,2023-08-20 04:39:47,Hyderabad,Android,Google Ads,4.9.0
+149508,2023-08-01 21:23:43,Mumbai,Android,Organic,4.9.0
+342882,2023-10-29 14:59:18,Pune,Android,Referral,4.9.0
+309981,2023-11-01 20:23:15,Delhi,Android,Organic,4.8.1
+165695,2023-11-28 06:53:28,Bangalore,iOS,Google Ads,4.9.0
+77540,2023-12-18 21:22:40,Bangalore,Android,Instagram,4.9.0
+94167,2023-11-29 03:46:47,Bangalore,iOS,Instagram,4.8.1
+165130,2023-07-01 19:48:15,Mumbai,Android,Instagram,4.9.0
+141908,2023-10-14 16:49:42,Bangalore,Android,Organic,4.8.1
+149386,2023-12-03 21:40:33,Hyderabad,Android,Organic,4.9.0
+75722,2023-09-27 02:48:07,Mumbai,Android,Google Ads,4.9.0
+212326,2023-08-09 21:02:56,Hyderabad,Android,Organic,4.9.0
+50123,2023-08-30 18:37:15,Delhi,Android,Organic,4.8.1
+331143,2023-08-11 19:30:00,Bangalore,Android,Organic,4.9.0
+134340,2023-07-10 13:23:36,Bangalore,Android,Organic,4.9.0
+374286,2023-10-10 10:15:13,Delhi,Android,Organic,4.9.0
+351749,2023-11-18 02:44:38,Hyderabad,iOS,Instagram,4.9.0
+196355,2023-10-27 13:58:54,Delhi,iOS,Organic,4.8.1
+300549,2023-10-25 06:57:33,Hyderabad,iOS,Referral,4.8.1
+115519,2023-07-24 10:59:53,Bangalore,iOS,Organic,4.9.0
+211697,2023-07-07 10:03:14,Delhi,Android,Google Ads,4.9.0
+93797,2023-10-07 19:12:06,Delhi,Android,Organic,4.9.0
+61388,2023-12-01 02:29:35,Delhi,iOS,Instagram,4.8.1
+370096,2023-08-10 13:27:53,Bangalore,Android,Instagram,4.9.0
+59217,2023-09-23 11:41:35,Mumbai,Android,Organic,4.8.1
+87188,2023-07-26 12:24:24,Hyderabad,Android,Facebook,4.9.0
+127934,2023-08-20 06:02:27,Bangalore,Android,Facebook,4.9.0
+77793,2023-10-23 16:09:31,Chennai,Android,Instagram,4.9.0
+403019,2023-11-27 23:02:08,Bangalore,iOS,Instagram,4.8.1
+141918,2023-12-25 12:24:33,Pune,Android,Organic,4.9.0
+148320,2023-07-08 22:49:36,Hyderabad,Android,Referral,4.8.1
+197832,2023-12-10 00:09:19,Bangalore,iOS,Organic,4.8.1
+114919,2023-07-29 14:43:09,Mumbai,Android,Organic,4.9.0
+94152,2023-11-11 10:44:27,Chennai,Android,Facebook,4.9.0
+384571,2023-12-27 06:03:48,Delhi,Android,Organic,4.8.1
+347263,2023-10-07 10:53:24,Delhi,Android,Google Ads,4.9.0
+241719,2023-07-15 08:44:42,Mumbai,iOS,Instagram,4.9.0
+59181,2023-08-30 00:08:22,Delhi,Android,Instagram,4.9.0
+376381,2023-12-01 17:14:48,Chennai,iOS,Facebook,4.8.1
+366975,2023-09-14 22:30:00,Bangalore,Android,Organic,4.9.0
+221430,2023-09-16 05:10:58,Hyderabad,iOS,Organic,4.8.1
+67647,2023-08-26 14:58:26,Bangalore,iOS,Organic,4.8.1
+39011,2023-12-12 00:22:07,Pune,iOS,Organic,4.8.1
+64830,2023-11-22 17:07:27,Pune,Android,Organic,4.9.0
+65779,2023-11-06 04:52:18,Bangalore,iOS,Organic,4.8.1
+304291,2023-08-12 12:41:55,Delhi,Android,Instagram,4.8.1
+199735,2023-07-19 06:39:19,Chennai,Android,Referral,4.8.1
+143796,2023-10-16 14:12:05,Bangalore,iOS,Organic,4.9.0
+42755,2023-11-03 20:32:55,Mumbai,Android,Google Ads,4.9.0
+68103,2023-08-22 06:18:08,Chennai,iOS,Organic,4.8.1
+35774,2023-09-08 22:11:35,Bangalore,Android,Organic,4.9.0
+203370,2023-12-10 15:53:23,Delhi,Android,Instagram,4.9.0
+167136,2023-10-13 19:47:22,Bangalore,Android,Google Ads,4.9.0
+57943,2023-10-10 11:18:08,Chennai,Android,Instagram,4.8.1
+397362,2023-09-12 04:42:47,Pune,Android,Organic,4.9.0
+268365,2023-07-10 03:59:31,Pune,Android,Instagram,4.9.0
+114247,2023-07-06 19:12:37,Hyderabad,Android,Google Ads,4.9.0
+110138,2023-08-20 16:18:47,Chennai,Android,Referral,4.8.1
+91958,2023-08-17 17:41:39,Chennai,Android,Google Ads,4.9.0
+145389,2023-11-05 08:08:29,Hyderabad,Android,Instagram,4.9.0
+304449,2023-09-07 19:49:54,Delhi,Android,Referral,4.9.0
+53289,2023-08-29 02:33:19,Bangalore,Android,Referral,4.8.1
+137617,2023-11-08 21:49:12,Mumbai,Android,Facebook,4.8.1
+69713,2023-12-14 07:21:06,Bangalore,iOS,Instagram,4.9.0
+93065,2023-08-20 02:06:16,Bangalore,iOS,Organic,4.9.0
+353676,2023-08-27 10:22:20,Bangalore,Android,Google Ads,4.8.1
+154022,2023-11-10 18:36:01,Delhi,Android,Organic,4.9.0
+351799,2023-08-02 09:38:07,Hyderabad,iOS,Organic,4.8.1
+103500,2023-08-03 14:55:41,Delhi,Android,Referral,4.9.0
+100527,2023-10-01 09:37:21,Bangalore,Android,Facebook,4.9.0
+60835,2023-08-31 13:53:05,Hyderabad,Android,Facebook,4.9.0
+55227,2023-07-25 07:20:21,Mumbai,iOS,Organic,4.9.0
+41409,2023-12-02 16:19:46,Delhi,Android,Referral,4.8.1
+173667,2023-12-23 04:00:15,Hyderabad,Android,Organic,4.9.0
+242689,2023-10-21 20:10:36,Mumbai,iOS,Facebook,4.8.1
+67845,2023-09-19 04:27:20,Chennai,iOS,Facebook,4.9.0
+233614,2023-07-08 03:47:47,Mumbai,Android,Google Ads,4.9.0
+97346,2023-08-31 17:25:52,Bangalore,Android,Instagram,4.9.0
+87603,2023-10-30 19:23:47,Bangalore,iOS,Google Ads,4.8.1
+84087,2023-11-20 20:54:56,Chennai,Android,Referral,4.9.0
+63141,2023-09-23 19:35:41,Bangalore,Android,Organic,4.8.1
+139827,2023-08-28 16:55:48,Chennai,Android,Referral,4.8.1
+148499,2023-11-29 04:35:59,Mumbai,iOS,Google Ads,4.9.0
+52256,2023-07-20 18:25:23,Pune,Android,Google Ads,4.9.0
+142273,2023-12-06 10:52:39,Delhi,iOS,Organic,4.9.0
+87006,2023-08-29 10:10:07,Pune,iOS,Facebook,4.8.1
+141445,2023-10-07 13:49:59,Hyderabad,Android,Organic,4.8.1
+66505,2023-09-16 21:41:26,Delhi,Android,Referral,4.9.0
+291891,2023-10-17 20:40:34,Hyderabad,Android,Google Ads,4.9.0
+105614,2023-09-06 17:59:44,Hyderabad,Android,Google Ads,4.8.1
+41249,2023-12-15 16:29:51,Mumbai,Android,Google Ads,4.9.0
+42018,2023-10-03 13:35:28,Chennai,iOS,Organic,4.9.0
+79215,2023-12-20 21:05:51,Pune,Android,Organic,4.9.0
+349123,2023-08-19 18:55:54,Delhi,iOS,Google Ads,4.9.0
+60873,2023-07-27 06:17:22,Hyderabad,Android,Referral,4.9.0
+87727,2023-12-22 23:40:05,Hyderabad,Android,Organic,4.9.0
+77544,2023-12-21 04:07:18,Delhi,Android,Google Ads,4.9.0
+365469,2023-07-23 22:58:29,Bangalore,Android,Referral,4.8.1
+143984,2023-09-28 14:02:21,Bangalore,Android,Google Ads,4.9.0
+87357,2023-07-02 08:19:41,Hyderabad,Android,Instagram,4.9.0
+54093,2023-07-18 14:41:41,Bangalore,Android,Organic,4.9.0
+122852,2023-10-24 20:13:25,Bangalore,Android,Organic,4.8.1
+284455,2023-10-31 22:04:28,Bangalore,Android,Instagram,4.9.0
+362842,2023-10-26 16:07:14,Bangalore,Android,Google Ads,4.9.0
+165110,2023-09-09 15:58:45,Bangalore,Android,Google Ads,4.8.1
+405334,2023-10-19 23:19:54,Pune,iOS,Instagram,4.9.0
+77306,2023-08-09 19:10:18,Hyderabad,Android,Instagram,4.9.0
+88201,2023-09-30 14:14:57,Hyderabad,Android,Facebook,4.8.1
+88185,2023-10-29 09:44:52,Mumbai,Android,Referral,4.9.0
+369452,2023-11-09 02:10:37,Bangalore,Android,Referral,4.9.0
+141576,2023-07-29 10:33:04,Pune,Android,Organic,4.9.0
+126134,2023-11-11 11:29:31,Delhi,Android,Organic,4.8.1
+97370,2023-08-17 11:43:42,Bangalore,Android,Referral,4.8.1
+86233,2023-07-17 09:56:15,Hyderabad,Android,Organic,4.9.0
+348096,2023-08-14 01:24:48,Chennai,Android,Facebook,4.8.1
+232542,2023-12-28 02:07:55,Pune,Android,Referral,4.9.0
+68775,2023-12-02 02:00:15,Hyderabad,Android,Referral,4.8.1
+374826,2023-12-18 10:29:38,Mumbai,iOS,Organic,4.8.1
+381020,2023-09-23 02:16:35,Bangalore,Android,Organic,4.8.1
+60845,2023-08-13 16:02:42,Pune,Android,Organic,4.9.0
+94480,2023-11-23 14:27:11,Bangalore,Android,Organic,4.9.0
+61181,2023-08-16 18:42:56,Pune,Android,Organic,4.8.1
+93505,2023-08-01 13:37:03,Mumbai,Android,Google Ads,4.8.1
+182080,2023-09-05 02:04:00,Mumbai,Android,Instagram,4.8.1
+370053,2023-10-26 11:10:35,Mumbai,Android,Instagram,4.9.0
+270444,2023-11-25 01:43:55,Bangalore,Android,Google Ads,4.9.0
+186473,2023-08-29 09:06:37,Bangalore,Android,Organic,4.9.0
+53503,2023-08-09 22:42:36,Bangalore,Android,Instagram,4.9.0
+356195,2023-10-19 04:29:33,Bangalore,Android,Instagram,4.9.0
+105460,2023-08-09 20:41:24,Delhi,Android,Organic,4.8.1
+121905,2023-08-03 21:05:09,Hyderabad,Android,Google Ads,4.9.0
+70456,2023-11-25 16:46:26,Bangalore,iOS,Organic,4.8.1
+62626,2023-09-19 18:44:11,Pune,Android,Instagram,4.8.1
+242754,2023-11-04 03:08:07,Chennai,Android,Facebook,4.9.0
+216438,2023-11-08 12:06:52,Chennai,Android,Organic,4.9.0
+101202,2023-10-28 10:46:08,Pune,iOS,Instagram,4.9.0
+201471,2023-10-07 14:39:41,Bangalore,Android,Google Ads,4.9.0
+80531,2023-09-29 00:41:24,Hyderabad,Android,Facebook,4.9.0
+74707,2023-10-07 10:11:42,Delhi,Android,Referral,4.8.1
+379538,2023-11-11 08:18:42,Delhi,Android,Instagram,4.9.0
+174437,2023-09-10 22:17:04,Bangalore,Android,Organic,4.9.0
+325285,2023-08-26 01:10:11,Delhi,Android,Organic,4.9.0
+84502,2023-09-12 13:53:02,Bangalore,iOS,Organic,4.9.0
+276431,2023-08-20 04:24:28,Bangalore,Android,Facebook,4.8.1
+60397,2023-10-22 14:23:16,Mumbai,Android,Instagram,4.9.0
+53947,2023-12-17 13:31:11,Mumbai,iOS,Instagram,4.9.0
+54365,2023-12-21 00:18:30,Mumbai,Android,Facebook,4.8.1
+60138,2023-11-19 16:00:32,Bangalore,Android,Organic,4.9.0
+386766,2023-07-26 15:19:27,Chennai,Android,Organic,4.9.0
+167986,2023-08-14 23:33:22,Bangalore,Android,Organic,4.9.0
+89844,2023-09-14 18:12:15,Bangalore,Android,Organic,4.9.0
+362961,2023-09-18 04:39:45,Chennai,iOS,Organic,4.8.1
+318095,2023-10-14 01:49:12,Pune,Android,Referral,4.8.1
+294246,2023-07-08 23:08:25,Chennai,Android,Organic,4.8.1
+142677,2023-11-05 07:25:18,Delhi,Android,Organic,4.9.0
+175101,2023-07-24 00:32:53,Mumbai,iOS,Organic,4.8.1
+81405,2023-08-05 15:46:01,Mumbai,iOS,Organic,4.8.1
+154464,2023-07-17 08:54:26,Bangalore,iOS,Facebook,4.9.0
+151191,2023-12-29 16:29:27,Hyderabad,Android,Instagram,4.9.0
+66373,2023-07-06 03:38:21,Hyderabad,Android,Facebook,4.9.0
+367093,2023-12-18 07:58:15,Bangalore,Android,Organic,4.8.1
+94909,2023-10-02 19:50:09,Delhi,Android,Organic,4.8.1
+70564,2023-09-24 19:10:23,Hyderabad,Android,Instagram,4.8.1
+121686,2023-12-05 19:38:22,Bangalore,Android,Organic,4.9.0
+7567,2023-09-27 02:47:49,Bangalore,Android,Organic,4.9.0
+39029,2023-12-05 23:32:38,Delhi,Android,Organic,4.9.0
+283310,2023-12-15 06:54:57,Bangalore,Android,Organic,4.8.1
+151333,2023-07-13 19:05:34,Chennai,Android,Organic,4.9.0
+103147,2023-11-12 10:46:50,Hyderabad,Android,Organic,4.8.1
+115213,2023-10-24 10:03:21,Hyderabad,Android,Google Ads,4.8.1
+115610,2023-10-26 23:10:57,Mumbai,Android,Organic,4.9.0
+73873,2023-10-20 06:21:13,Delhi,iOS,Organic,4.9.0
+270525,2023-11-01 15:32:32,Hyderabad,Android,Instagram,4.8.1
+42424,2023-08-20 09:12:07,Mumbai,Android,Organic,4.8.1
+54081,2023-09-23 16:02:40,Mumbai,Android,Organic,4.9.0
+41136,2023-12-10 07:41:30,Bangalore,iOS,Instagram,4.8.1
+304509,2023-10-02 10:37:41,Chennai,Android,Organic,4.8.1
+38116,2023-07-06 18:34:23,Delhi,Android,Organic,4.8.1
+58231,2023-10-10 08:17:42,Mumbai,Android,Referral,4.8.1
+367051,2023-07-31 23:23:08,Chennai,Android,Organic,4.8.1
+187187,2023-12-24 01:02:33,Chennai,Android,Referral,4.9.0
+73175,2023-08-08 03:33:10,Delhi,Android,Instagram,4.8.1
+49695,2023-09-29 01:55:37,Chennai,iOS,Organic,4.9.0
+52327,2023-09-14 13:00:18,Delhi,Android,Referral,4.9.0
+370656,2023-10-23 08:49:53,Delhi,iOS,Referral,4.9.0
+114400,2023-10-15 07:34:47,Mumbai,Android,Organic,4.9.0
+59673,2023-12-01 07:43:08,Delhi,Android,Google Ads,4.9.0
+66636,2023-12-20 10:53:47,Bangalore,iOS,Organic,4.8.1
+96921,2023-12-23 11:20:25,Chennai,Android,Referral,4.9.0
+283052,2023-09-02 13:26:30,Chennai,Android,Organic,4.9.0
+348352,2023-09-14 09:00:40,Bangalore,Android,Referral,4.9.0
+325272,2023-11-21 21:09:55,Delhi,Android,Organic,4.9.0
+126026,2023-09-09 14:20:28,Bangalore,Android,Instagram,4.9.0
+352130,2023-11-20 13:18:11,Hyderabad,Android,Organic,4.9.0
+64151,2023-09-14 21:06:08,Delhi,Android,Organic,4.8.1
+74762,2023-08-01 05:43:35,Bangalore,Android,Referral,4.9.0
+102085,2023-11-14 14:38:55,Delhi,Android,Google Ads,4.9.0
+77857,2023-10-20 23:25:33,Chennai,Android,Referral,4.9.0
+373285,2023-11-18 09:04:15,Mumbai,Android,Google Ads,4.8.1
+63096,2023-12-11 09:03:07,Bangalore,Android,Instagram,4.9.0
+304365,2023-10-11 06:53:10,Bangalore,Android,Instagram,4.8.1
+176622,2023-07-14 13:43:42,Mumbai,Android,Organic,4.8.1
+200631,2023-07-29 23:29:31,Pune,iOS,Referral,4.9.0
+138024,2023-08-06 18:43:45,Mumbai,Android,Instagram,4.8.1
+47879,2023-07-12 12:42:41,Bangalore,Android,Facebook,4.9.0
+132753,2023-08-18 10:10:39,Mumbai,Android,Instagram,4.8.1
+404649,2023-07-08 17:05:26,Mumbai,Android,Organic,4.9.0
+41246,2023-07-08 12:19:10,Delhi,Android,Organic,4.8.1
+209552,2023-08-09 01:45:57,Bangalore,iOS,Referral,4.8.1
+353331,2023-07-02 09:00:34,Delhi,Android,Google Ads,4.8.1
+70001,2023-08-07 11:52:56,Mumbai,iOS,Referral,4.8.1
+65561,2023-11-12 02:40:57,Pune,iOS,Referral,4.8.1
+290266,2023-12-26 01:39:10,Hyderabad,iOS,Instagram,4.8.1
+53513,2023-09-07 05:01:49,Mumbai,iOS,Organic,4.9.0
+385426,2023-09-07 20:22:20,Pune,Android,Instagram,4.8.1
+62161,2023-11-26 22:22:13,Bangalore,Android,Organic,4.9.0
+254913,2023-08-19 04:31:53,Pune,Android,Organic,4.8.1
+289597,2023-08-21 04:23:21,Delhi,Android,Referral,4.9.0
+74412,2023-12-04 21:51:17,Bangalore,Android,Instagram,4.9.0
+54110,2023-07-13 11:53:20,Hyderabad,Android,Organic,4.9.0
+236739,2023-10-17 23:05:23,Delhi,Android,Organic,4.8.1
+182252,2023-12-30 20:35:53,Bangalore,Android,Facebook,4.8.1
+345062,2023-10-22 17:45:41,Mumbai,Android,Organic,4.9.0
+142170,2023-11-01 11:50:38,Hyderabad,Android,Referral,4.8.1
+164131,2023-08-10 13:05:57,Mumbai,Android,Referral,4.8.1
+167828,2023-10-04 18:01:14,Bangalore,iOS,Referral,4.8.1
+67345,2023-10-11 10:17:31,Chennai,Android,Google Ads,4.8.1
+208186,2023-10-29 22:04:20,Pune,Android,Organic,4.8.1
+227992,2023-11-12 19:32:48,Pune,Android,Referral,4.9.0
+304587,2023-12-29 10:55:03,Delhi,Android,Organic,4.8.1
+62941,2023-07-23 23:33:08,Bangalore,Android,Google Ads,4.9.0
+389155,2023-10-09 00:00:59,Delhi,Android,Organic,4.8.1
+304112,2023-08-18 13:55:55,Bangalore,Android,Referral,4.8.1
+90113,2023-07-21 06:51:23,Bangalore,Android,Organic,4.9.0
+221394,2023-09-28 07:34:28,Hyderabad,Android,Organic,4.8.1
+284835,2023-07-12 15:04:06,Hyderabad,Android,Organic,4.9.0
+143511,2023-12-12 20:23:31,Delhi,Android,Organic,4.9.0
+133701,2023-10-17 08:02:13,Delhi,Android,Instagram,4.8.1
+345429,2023-08-14 18:18:20,Hyderabad,Android,Organic,4.9.0
+125262,2023-11-25 19:51:59,Bangalore,iOS,Facebook,4.8.1
+375704,2023-07-06 04:49:55,Pune,Android,Facebook,4.9.0
+124596,2023-08-29 12:51:41,Hyderabad,Android,Referral,4.8.1
+70315,2023-09-17 04:12:30,Hyderabad,Android,Organic,4.9.0
+296554,2023-07-15 14:06:26,Bangalore,Android,Organic,4.8.1
+146456,2023-08-05 08:26:30,Delhi,Android,Instagram,4.9.0
+71613,2023-09-20 05:50:31,Delhi,Android,Organic,4.9.0
+49010,2023-12-18 18:13:07,Bangalore,iOS,Organic,4.9.0
+52574,2023-12-06 20:46:04,Bangalore,Android,Referral,4.9.0
+65806,2023-08-09 02:46:09,Delhi,Android,Instagram,4.9.0
+85422,2023-08-03 13:43:23,Mumbai,Android,Instagram,4.9.0
+344268,2023-12-29 19:41:29,Bangalore,Android,Organic,4.8.1
+294478,2023-11-09 10:23:25,Pune,Android,Google Ads,4.8.1
+58205,2023-10-08 16:04:34,Bangalore,Android,Organic,4.8.1
+91108,2023-10-19 05:30:56,Hyderabad,iOS,Organic,4.8.1
+245264,2023-07-20 01:25:11,Pune,Android,Instagram,4.8.1
+129122,2023-09-03 16:09:34,Hyderabad,Android,Organic,4.9.0
+328551,2023-09-12 03:28:27,Mumbai,iOS,Organic,4.8.1
+42408,2023-10-01 05:16:41,Hyderabad,Android,Organic,4.9.0
+94132,2023-07-17 11:21:26,Bangalore,iOS,Instagram,4.8.1
+67133,2023-08-12 18:39:21,Pune,Android,Instagram,4.8.1
+343554,2023-10-04 02:35:16,Hyderabad,iOS,Google Ads,4.9.0
+133222,2023-08-06 18:45:45,Chennai,Android,Instagram,4.9.0
+91722,2023-09-24 01:12:20,Bangalore,iOS,Organic,4.9.0
+43018,2023-11-14 14:27:09,Bangalore,iOS,Referral,4.9.0
+93308,2023-07-03 02:51:02,Bangalore,Android,Organic,4.8.1
+367449,2023-11-03 22:15:26,Mumbai,iOS,Organic,4.9.0
+125834,2023-08-02 21:26:32,Hyderabad,Android,Referral,4.8.1
+390459,2023-08-19 16:55:39,Chennai,Android,Facebook,4.8.1
+58025,2023-11-12 08:44:36,Hyderabad,Android,Organic,4.9.0
+384698,2023-12-22 06:56:00,Pune,Android,Organic,4.8.1
+98735,2023-09-09 13:18:49,Bangalore,Android,Organic,4.8.1
+130956,2023-08-27 05:28:25,Chennai,Android,Organic,4.9.0
+228541,2023-07-10 07:08:48,Delhi,Android,Facebook,4.9.0
+264399,2023-08-17 00:35:58,Delhi,iOS,Referral,4.8.1
+124393,2023-07-13 01:47:13,Chennai,iOS,Referral,4.8.1
+357592,2023-09-13 20:51:43,Delhi,Android,Instagram,4.8.1
+317660,2023-10-25 21:39:09,Mumbai,Android,Organic,4.8.1
+342777,2023-07-07 03:05:25,Bangalore,Android,Referral,4.9.0
+135769,2023-12-29 20:40:15,Bangalore,Android,Organic,4.8.1
+373152,2023-12-06 00:05:44,Chennai,Android,Referral,4.9.0
+222073,2023-07-03 01:03:35,Mumbai,Android,Facebook,4.8.1
+139755,2023-08-20 17:12:12,Delhi,Android,Instagram,4.9.0
+48677,2023-11-06 18:09:56,Hyderabad,iOS,Organic,4.8.1
+27365,2023-09-16 03:24:48,Bangalore,Android,Instagram,4.9.0
+87752,2023-09-25 12:14:07,Bangalore,Android,Organic,4.8.1
+50260,2023-08-23 06:03:40,Delhi,Android,Organic,4.9.0
+35631,2023-12-23 01:48:22,Hyderabad,Android,Organic,4.8.1
+196320,2023-08-12 19:36:31,Bangalore,Android,Organic,4.8.1
+140501,2023-12-25 14:31:26,Hyderabad,Android,Referral,4.9.0
+39275,2023-10-12 08:31:00,Bangalore,Android,Google Ads,4.9.0
+120490,2023-10-25 14:35:01,Mumbai,Android,Facebook,4.9.0
+63147,2023-12-20 20:00:28,Bangalore,iOS,Referral,4.9.0
+105087,2023-09-20 02:14:14,Delhi,iOS,Referral,4.9.0
+41907,2023-08-11 19:30:10,Hyderabad,Android,Organic,4.8.1
+83469,2023-09-20 09:18:03,Hyderabad,Android,Organic,4.8.1
+399729,2023-12-23 20:03:37,Bangalore,Android,Referral,4.8.1
+103049,2023-07-26 01:12:47,Bangalore,Android,Organic,4.9.0
+232214,2023-10-28 03:04:18,Hyderabad,Android,Instagram,4.8.1
+18902,2023-07-02 16:05:56,Hyderabad,Android,Organic,4.8.1
+140279,2023-11-25 23:52:53,Mumbai,Android,Organic,4.9.0
+276192,2023-11-10 23:05:28,Bangalore,Android,Organic,4.9.0
+68300,2023-10-10 04:57:00,Delhi,Android,Organic,4.8.1
+132137,2023-11-16 18:15:41,Chennai,iOS,Organic,4.8.1
+148327,2023-10-06 04:47:23,Delhi,iOS,Google Ads,4.8.1
+65589,2023-11-28 19:34:28,Bangalore,Android,Organic,4.8.1
+74424,2023-07-21 05:33:34,Hyderabad,Android,Google Ads,4.8.1
+240093,2023-09-21 19:58:40,Bangalore,iOS,Organic,4.9.0
+102801,2023-11-18 03:51:57,Bangalore,Android,Organic,4.9.0
+107240,2023-11-24 13:08:13,Pune,iOS,Organic,4.9.0
+385150,2023-07-27 11:43:47,Bangalore,Android,Instagram,4.8.1
+27609,2023-12-19 18:17:40,Hyderabad,iOS,Organic,4.9.0
+334758,2023-09-14 10:32:43,Mumbai,Android,Instagram,4.8.1
+128711,2023-09-15 08:38:39,Delhi,iOS,Organic,4.9.0
+338923,2023-07-09 20:15:21,Mumbai,iOS,Instagram,4.9.0
+164005,2023-09-20 19:22:01,Bangalore,Android,Organic,4.8.1
+79343,2023-12-13 18:21:35,Hyderabad,Android,Google Ads,4.8.1
+103852,2023-10-19 15:05:56,Mumbai,iOS,Referral,4.9.0
+35993,2023-08-10 12:57:10,Bangalore,Android,Facebook,4.8.1
+201542,2023-11-04 23:25:23,Hyderabad,iOS,Organic,4.9.0
+369272,2023-09-04 23:00:48,Bangalore,Android,Organic,4.8.1
+45396,2023-07-13 19:41:17,Bangalore,Android,Organic,4.9.0
+350180,2023-09-05 10:07:32,Hyderabad,Android,Instagram,4.8.1
+318451,2023-07-04 08:13:10,Bangalore,Android,Referral,4.8.1
+63513,2023-08-28 20:28:41,Mumbai,iOS,Instagram,4.9.0
+68258,2023-11-05 16:44:57,Delhi,Android,Organic,4.8.1
+350659,2023-10-22 09:30:44,Delhi,Android,Organic,4.8.1
+110461,2023-10-25 02:04:17,Bangalore,Android,Organic,4.8.1
+372722,2023-12-01 03:55:31,Bangalore,Android,Facebook,4.8.1
+245862,2023-12-22 22:10:38,Bangalore,iOS,Google Ads,4.8.1
+368295,2023-12-26 06:00:41,Mumbai,iOS,Facebook,4.8.1
+288777,2023-08-12 17:55:05,Delhi,Android,Organic,4.9.0
+371806,2023-12-03 21:42:17,Bangalore,iOS,Google Ads,4.8.1
+99621,2023-08-21 16:37:51,Pune,iOS,Google Ads,4.9.0
+97420,2023-08-20 18:12:16,Bangalore,Android,Organic,4.8.1
+75251,2023-07-16 15:44:55,Mumbai,iOS,Instagram,4.8.1
+59105,2023-10-30 11:21:40,Delhi,Android,Facebook,4.9.0
+321255,2023-07-19 09:27:08,Chennai,Android,Instagram,4.8.1
+58434,2023-11-16 02:29:23,Delhi,iOS,Google Ads,4.9.0
+162330,2023-11-05 18:01:51,Delhi,Android,Organic,4.8.1
+35432,2023-07-13 17:42:47,Hyderabad,iOS,Organic,4.9.0
+178172,2023-11-01 13:08:31,Delhi,iOS,Facebook,4.9.0
+302132,2023-09-28 04:39:18,Bangalore,Android,Organic,4.9.0
+322787,2023-11-19 10:37:53,Chennai,iOS,Google Ads,4.9.0
+37982,2023-11-30 19:11:44,Mumbai,Android,Google Ads,4.9.0
+5444,2023-07-01 13:38:35,Delhi,Android,Google Ads,4.8.1
+297130,2023-12-26 12:20:47,Hyderabad,Android,Facebook,4.8.1
+40500,2023-11-13 17:18:18,Mumbai,iOS,Organic,4.9.0
+64621,2023-07-09 08:29:07,Mumbai,Android,Organic,4.8.1
+115231,2023-09-01 09:47:03,Delhi,Android,Organic,4.8.1
+390436,2023-09-07 22:51:55,Bangalore,Android,Organic,4.9.0
+126730,2023-09-11 03:19:13,Bangalore,Android,Organic,4.8.1
+320187,2023-11-29 20:12:18,Bangalore,Android,Organic,4.9.0
+105837,2023-11-10 09:20:59,Bangalore,Android,Instagram,4.9.0
+102580,2023-12-22 00:04:48,Chennai,Android,Facebook,4.9.0
+129823,2023-08-30 17:28:00,Bangalore,Android,Organic,4.9.0
+96943,2023-11-07 18:21:48,Pune,iOS,Organic,4.8.1
+14869,2023-11-09 15:13:54,Hyderabad,Android,Facebook,4.8.1
+318545,2023-07-17 06:05:30,Bangalore,Android,Organic,4.9.0
+366954,2023-07-03 21:51:32,Delhi,iOS,Organic,4.8.1
+68154,2023-08-16 17:04:11,Mumbai,Android,Organic,4.9.0
+178846,2023-12-11 13:16:50,Hyderabad,iOS,Referral,4.9.0
+196928,2023-07-06 16:24:32,Mumbai,Android,Organic,4.9.0
+42930,2023-07-13 13:54:40,Delhi,iOS,Facebook,4.8.1
+80737,2023-11-29 11:31:51,Bangalore,Android,Organic,4.9.0
+314908,2023-11-27 11:21:45,Pune,Android,Referral,4.9.0
+138426,2023-12-24 22:28:58,Pune,Android,Organic,4.9.0
+252342,2023-07-24 19:02:03,Mumbai,iOS,Referral,4.8.1
+112272,2023-07-27 00:43:08,Bangalore,Android,Google Ads,4.9.0
+69025,2023-11-24 21:30:52,Delhi,Android,Instagram,4.9.0
+113507,2023-12-29 12:33:15,Bangalore,iOS,Instagram,4.9.0
+225912,2023-12-03 04:23:58,Bangalore,iOS,Referral,4.9.0
+397588,2023-10-21 07:11:41,Bangalore,Android,Facebook,4.8.1
+120385,2023-11-07 02:08:01,Hyderabad,iOS,Instagram,4.9.0
+385406,2023-08-04 10:44:02,Chennai,iOS,Instagram,4.9.0
+54851,2023-08-23 00:14:41,Delhi,Android,Organic,4.8.1
+399332,2023-12-13 00:02:42,Delhi,Android,Organic,4.9.0
+44759,2023-07-31 15:46:30,Hyderabad,Android,Organic,4.9.0
+54809,2023-08-13 13:17:04,Hyderabad,Android,Google Ads,4.9.0
+375098,2023-12-15 23:10:17,Hyderabad,Android,Organic,4.9.0
+41991,2023-11-05 17:23:19,Pune,Android,Organic,4.9.0
+75548,2023-11-06 10:58:36,Bangalore,Android,Instagram,4.9.0
+304707,2023-08-25 22:32:57,Chennai,Android,Instagram,4.8.1
+285774,2023-10-04 18:00:41,Mumbai,Android,Facebook,4.8.1
+385350,2023-08-08 19:33:17,Hyderabad,iOS,Organic,4.9.0
+123977,2023-10-06 20:29:21,Delhi,iOS,Google Ads,4.9.0
+91114,2023-11-21 06:23:46,Hyderabad,Android,Organic,4.9.0
+388420,2023-07-31 01:31:20,Chennai,iOS,Organic,4.9.0
+261665,2023-08-18 13:59:31,Chennai,Android,Organic,4.8.1
+213212,2023-09-12 18:36:41,Hyderabad,Android,Organic,4.9.0
+94691,2023-09-09 19:41:40,Bangalore,Android,Organic,4.8.1
+6987,2023-08-03 19:41:37,Mumbai,Android,Instagram,4.9.0
+142574,2023-07-02 19:39:24,Chennai,iOS,Organic,4.9.0
+106478,2023-11-29 20:02:18,Bangalore,Android,Google Ads,4.8.1
+35643,2023-10-31 21:14:04,Mumbai,Android,Referral,4.8.1
+355090,2023-07-07 03:43:51,Mumbai,Android,Organic,4.9.0
+133349,2023-08-04 14:24:35,Delhi,Android,Referral,4.9.0
+241080,2023-11-12 04:50:28,Bangalore,Android,Organic,4.8.1
+98319,2023-11-14 01:08:12,Delhi,Android,Referral,4.9.0
+377260,2023-08-09 00:02:00,Chennai,Android,Organic,4.9.0
+110792,2023-08-24 12:37:55,Bangalore,iOS,Organic,4.9.0
+60901,2023-09-21 10:25:13,Bangalore,iOS,Organic,4.9.0
+132906,2023-09-18 08:01:40,Pune,Android,Referral,4.9.0
+186976,2023-07-31 13:25:28,Bangalore,iOS,Facebook,4.9.0
+258275,2023-10-14 02:08:23,Chennai,Android,Organic,4.9.0
+344577,2023-10-15 17:45:35,Hyderabad,Android,Google Ads,4.9.0
+72757,2023-09-23 19:07:14,Bangalore,Android,Google Ads,4.8.1
+372276,2023-10-19 13:12:16,Chennai,Android,Facebook,4.9.0
+72726,2023-08-28 14:36:18,Hyderabad,iOS,Instagram,4.8.1
+317446,2023-10-31 08:35:59,Mumbai,Android,Referral,4.8.1
+186454,2023-11-11 16:58:11,Hyderabad,Android,Google Ads,4.8.1
+390484,2023-08-15 22:46:41,Mumbai,Android,Instagram,4.8.1
+361220,2023-07-01 19:37:20,Bangalore,Android,Organic,4.9.0
+373059,2023-11-25 21:51:34,Hyderabad,iOS,Organic,4.8.1
+42828,2023-10-29 05:59:59,Pune,Android,Organic,4.9.0
+369809,2023-08-17 17:04:23,Bangalore,Android,Instagram,4.9.0
+41638,2023-08-23 04:21:17,Mumbai,Android,Instagram,4.9.0
+361728,2023-12-10 16:46:23,Hyderabad,Android,Organic,4.8.1
+328731,2023-11-24 08:19:48,Delhi,Android,Referral,4.9.0
+94700,2023-07-16 16:32:11,Bangalore,Android,Referral,4.9.0
+205241,2023-12-07 16:59:28,Pune,Android,Organic,4.9.0
+144352,2023-07-08 19:38:30,Hyderabad,Android,Facebook,4.9.0
+39334,2023-08-13 07:13:16,Bangalore,iOS,Organic,4.9.0
+115841,2023-09-19 21:41:42,Bangalore,iOS,Organic,4.9.0
+141912,2023-08-01 15:31:36,Bangalore,Android,Referral,4.8.1
+303548,2023-09-16 14:47:04,Mumbai,Android,Google Ads,4.9.0
+60039,2023-11-13 15:41:17,Hyderabad,Android,Organic,4.8.1
+396432,2023-07-11 09:32:00,Delhi,iOS,Google Ads,4.9.0
+125510,2023-11-30 23:34:08,Hyderabad,Android,Referral,4.8.1
+51356,2023-09-05 21:59:25,Bangalore,Android,Organic,4.8.1
+92096,2023-07-24 05:40:35,Mumbai,Android,Organic,4.9.0
+81152,2023-10-20 06:53:35,Delhi,Android,Referral,4.9.0
+56219,2023-11-22 03:02:48,Bangalore,Android,Organic,4.8.1
+53874,2023-12-29 02:41:25,Bangalore,Android,Facebook,4.9.0
+44049,2023-08-07 18:55:08,Bangalore,Android,Instagram,4.9.0
+317993,2023-08-19 07:28:58,Delhi,Android,Facebook,4.8.1
+260035,2023-10-24 18:10:26,Mumbai,Android,Organic,4.9.0
+142681,2023-11-01 10:15:12,Hyderabad,Android,Facebook,4.8.1
+67848,2023-11-12 10:03:15,Chennai,Android,Organic,4.9.0
+46696,2023-11-28 09:08:27,Delhi,Android,Organic,4.9.0
+84045,2023-09-14 01:47:40,Mumbai,Android,Organic,4.8.1
+87151,2023-11-29 00:44:24,Chennai,Android,Organic,4.9.0
+58675,2023-12-16 16:10:58,Bangalore,iOS,Google Ads,4.8.1
+367076,2023-09-10 17:28:43,Bangalore,Android,Referral,4.9.0
+81658,2023-12-14 03:59:04,Bangalore,Android,Organic,4.9.0
+93437,2023-11-22 12:38:30,Bangalore,Android,Google Ads,4.9.0
+395616,2023-12-30 17:30:03,Mumbai,Android,Organic,4.8.1
+97255,2023-08-11 21:59:41,Pune,Android,Referral,4.8.1
+127130,2023-08-19 03:30:38,Bangalore,Android,Organic,4.8.1
+283831,2023-09-08 00:25:35,Bangalore,Android,Instagram,4.8.1
+349854,2023-10-11 00:22:11,Hyderabad,iOS,Instagram,4.9.0
+43856,2023-12-03 08:44:02,Pune,Android,Referral,4.9.0
+78560,2023-08-11 15:57:45,Hyderabad,iOS,Organic,4.9.0
+344586,2023-11-23 16:46:38,Mumbai,iOS,Organic,4.9.0
+1311,2023-09-01 07:04:47,Bangalore,Android,Instagram,4.9.0
+77511,2023-12-03 17:50:44,Bangalore,iOS,Organic,4.9.0
+197633,2023-10-01 11:32:20,Pune,Android,Organic,4.9.0
+393765,2023-07-13 00:44:18,Pune,iOS,Organic,4.9.0
+80683,2023-08-13 16:00:11,Bangalore,Android,Referral,4.8.1
+141496,2023-07-27 19:42:16,Pune,Android,Referral,4.8.1
+145952,2023-11-23 05:50:43,Mumbai,Android,Instagram,4.9.0
+164529,2023-08-01 23:40:42,Chennai,Android,Organic,4.8.1
+382076,2023-09-28 00:01:24,Hyderabad,Android,Organic,4.8.1
+285143,2023-10-27 00:54:59,Mumbai,Android,Instagram,4.9.0
+54608,2023-08-13 20:19:00,Hyderabad,Android,Instagram,4.9.0
+105903,2023-11-03 02:21:10,Mumbai,Android,Organic,4.9.0
+94115,2023-07-03 06:56:15,Bangalore,Android,Referral,4.8.1
+367111,2023-07-28 14:54:48,Bangalore,Android,Organic,4.8.1
+42461,2023-07-10 02:44:54,Hyderabad,iOS,Facebook,4.9.0
+209179,2023-09-06 17:20:44,Delhi,iOS,Organic,4.9.0
+88333,2023-08-31 17:17:40,Bangalore,iOS,Facebook,4.9.0
+333311,2023-10-19 23:50:01,Mumbai,Android,Google Ads,4.9.0
+141550,2023-09-18 03:17:13,Pune,Android,Referral,4.9.0
+64754,2023-11-20 17:32:22,Bangalore,Android,Organic,4.9.0
+62730,2023-11-09 22:12:46,Mumbai,iOS,Referral,4.8.1
+367800,2023-08-28 20:09:29,Hyderabad,Android,Organic,4.9.0
+303409,2023-07-07 04:13:56,Chennai,Android,Organic,4.9.0
+121681,2023-11-10 06:09:38,Bangalore,Android,Google Ads,4.9.0
+57263,2023-08-18 23:40:06,Delhi,iOS,Facebook,4.9.0
+284256,2023-11-24 11:56:12,Chennai,Android,Referral,4.9.0
+125854,2023-12-09 23:51:06,Pune,Android,Google Ads,4.8.1
+35309,2023-11-12 12:57:46,Delhi,Android,Organic,4.9.0
+355970,2023-10-26 15:33:31,Hyderabad,Android,Organic,4.8.1
+5693,2023-07-27 08:19:20,Mumbai,Android,Organic,4.9.0
+70709,2023-08-21 00:30:49,Chennai,Android,Google Ads,4.8.1
+114410,2023-08-21 05:30:19,Mumbai,Android,Facebook,4.8.1
+312853,2023-12-26 08:00:16,Bangalore,iOS,Google Ads,4.9.0
+396481,2023-12-20 07:36:28,Pune,Android,Organic,4.9.0
+106006,2023-11-04 10:13:57,Delhi,iOS,Organic,4.9.0
+399832,2023-10-12 04:13:58,Mumbai,iOS,Referral,4.8.1
+365871,2023-07-16 10:06:37,Bangalore,Android,Organic,4.9.0
+318689,2023-09-26 00:17:16,Mumbai,Android,Instagram,4.8.1
+399172,2023-10-30 19:34:01,Hyderabad,Android,Instagram,4.9.0
+86449,2023-10-14 09:40:24,Mumbai,iOS,Google Ads,4.9.0
+101746,2023-09-15 22:18:25,Bangalore,Android,Organic,4.9.0
+167738,2023-09-02 05:26:50,Mumbai,Android,Organic,4.8.1
+144851,2023-12-02 23:00:09,Pune,Android,Organic,4.9.0
+44706,2023-10-12 01:52:01,Bangalore,Android,Organic,4.8.1
+96456,2023-12-08 06:07:00,Pune,Android,Organic,4.9.0
+77371,2023-09-18 21:43:56,Hyderabad,Android,Google Ads,4.8.1
+99288,2023-11-17 12:14:28,Chennai,Android,Google Ads,4.9.0
+38336,2023-11-15 03:59:33,Delhi,Android,Organic,4.8.1
+291667,2023-10-21 13:44:50,Mumbai,Android,Organic,4.9.0
+63890,2023-12-06 02:23:03,Delhi,Android,Organic,4.9.0
+310706,2023-12-05 22:21:35,Chennai,Android,Organic,4.9.0
+141732,2023-12-19 17:32:48,Hyderabad,Android,Instagram,4.8.1
+110858,2023-09-11 06:21:09,Hyderabad,iOS,Organic,4.9.0
+345798,2023-07-15 21:24:03,Mumbai,Android,Organic,4.9.0
+185355,2023-10-23 20:09:52,Delhi,Android,Organic,4.9.0
+361701,2023-10-05 05:49:50,Delhi,Android,Instagram,4.8.1
+114234,2023-09-10 18:24:06,Delhi,Android,Referral,4.9.0
+41968,2023-09-19 19:58:16,Hyderabad,Android,Organic,4.9.0
+48851,2023-10-10 15:45:48,Delhi,Android,Referral,4.8.1
+78887,2023-12-15 22:19:47,Bangalore,iOS,Google Ads,4.8.1
+71743,2023-11-05 08:34:43,Mumbai,Android,Facebook,4.9.0
+252965,2023-09-01 14:44:21,Bangalore,Android,Organic,4.8.1
+298794,2023-08-27 03:56:43,Hyderabad,Android,Instagram,4.8.1
+62929,2023-09-12 01:08:46,Hyderabad,Android,Facebook,4.9.0
+131093,2023-08-29 13:33:06,Hyderabad,Android,Facebook,4.9.0
+40808,2023-11-26 12:19:55,Delhi,Android,Google Ads,4.8.1
+142619,2023-10-06 09:36:38,Hyderabad,Android,Google Ads,4.9.0
+156218,2023-10-25 16:05:46,Hyderabad,Android,Organic,4.8.1
+122802,2023-11-08 18:11:21,Bangalore,Android,Instagram,4.8.1
+335155,2023-07-06 04:32:25,Hyderabad,Android,Referral,4.8.1
+113926,2023-10-14 18:14:42,Bangalore,Android,Google Ads,4.9.0
+77786,2023-09-29 14:18:14,Bangalore,Android,Organic,4.8.1
+113477,2023-08-12 15:45:01,Mumbai,iOS,Google Ads,4.8.1
+54540,2023-07-22 18:04:50,Mumbai,Android,Instagram,4.9.0
+47235,2023-12-24 00:45:00,Mumbai,Android,Organic,4.9.0
+357761,2023-11-20 02:07:45,Hyderabad,Android,Instagram,4.8.1
+120353,2023-08-27 16:34:05,Hyderabad,iOS,Referral,4.9.0
+103970,2023-09-19 07:41:45,Chennai,iOS,Instagram,4.8.1
+60270,2023-11-11 20:24:51,Mumbai,Android,Organic,4.9.0
+378820,2023-09-20 01:09:47,Hyderabad,iOS,Organic,4.9.0
+65306,2023-09-17 00:54:31,Bangalore,Android,Facebook,4.9.0
+143866,2023-07-17 20:08:28,Hyderabad,Android,Organic,4.8.1
+49987,2023-11-01 04:11:42,Hyderabad,iOS,Instagram,4.8.1
+75169,2023-08-08 09:59:04,Hyderabad,iOS,Referral,4.8.1
+370337,2023-10-09 14:54:30,Mumbai,Android,Referral,4.8.1
+67162,2023-09-06 04:54:26,Mumbai,Android,Organic,4.8.1
+397261,2023-09-05 11:43:08,Mumbai,Android,Referral,4.9.0
+283051,2023-12-03 15:59:23,Delhi,Android,Organic,4.9.0
+86806,2023-08-31 09:28:29,Delhi,iOS,Organic,4.9.0
+59314,2023-09-27 18:03:36,Delhi,Android,Organic,4.9.0
+354948,2023-08-27 06:51:39,Pune,Android,Organic,4.9.0
+302769,2023-07-28 15:08:32,Bangalore,Android,Facebook,4.9.0
+334372,2023-08-12 18:06:16,Bangalore,Android,Facebook,4.8.1
+42781,2023-09-09 04:08:23,Bangalore,Android,Organic,4.9.0
+67748,2023-08-21 00:30:24,Mumbai,Android,Google Ads,4.9.0
+302923,2023-08-16 16:58:13,Chennai,iOS,Organic,4.9.0
+398952,2023-11-14 07:25:40,Bangalore,iOS,Google Ads,4.9.0
+60688,2023-10-22 14:09:09,Chennai,Android,Instagram,4.8.1
+198194,2023-09-05 00:22:17,Bangalore,iOS,Facebook,4.8.1
+78879,2023-07-22 15:50:03,Pune,iOS,Organic,4.9.0
+255697,2023-09-05 12:29:32,Hyderabad,iOS,Instagram,4.8.1
+86421,2023-08-26 02:44:47,Bangalore,Android,Organic,4.9.0
+251817,2023-09-04 11:53:16,Hyderabad,Android,Facebook,4.9.0
+79849,2023-07-10 12:04:12,Bangalore,Android,Organic,4.9.0
+55220,2023-10-27 00:09:18,Bangalore,Android,Google Ads,4.9.0
+76938,2023-07-26 18:08:20,Hyderabad,Android,Google Ads,4.8.1
+301380,2023-07-22 11:26:07,Delhi,Android,Google Ads,4.8.1
+377274,2023-07-18 18:20:37,Mumbai,Android,Organic,4.9.0
+350083,2023-11-15 14:44:36,Hyderabad,Android,Facebook,4.9.0
+105385,2023-08-08 15:20:42,Mumbai,Android,Organic,4.9.0
+74048,2023-08-27 00:23:23,Delhi,Android,Google Ads,4.8.1
+44367,2023-12-21 04:39:00,Bangalore,iOS,Organic,4.8.1
+241356,2023-11-26 15:24:19,Hyderabad,iOS,Organic,4.9.0
+320088,2023-11-30 18:16:02,Bangalore,iOS,Referral,4.8.1
+308517,2023-07-05 21:39:30,Bangalore,iOS,Organic,4.9.0
+199049,2023-07-28 11:12:19,Delhi,Android,Organic,4.8.1
+240014,2023-08-30 10:30:16,Bangalore,iOS,Organic,4.9.0
+362685,2023-12-25 07:06:57,Mumbai,Android,Organic,4.9.0
+140530,2023-10-16 00:32:46,Delhi,Android,Instagram,4.9.0
+350410,2023-07-25 11:26:32,Bangalore,Android,Instagram,4.8.1
+349676,2023-10-06 16:45:36,Mumbai,Android,Organic,4.9.0
+39421,2023-07-22 16:23:41,Bangalore,Android,Organic,4.9.0
+46219,2023-09-14 19:37:50,Pune,Android,Organic,4.9.0
+398489,2023-09-09 09:25:50,Hyderabad,iOS,Organic,4.9.0
+92364,2023-12-29 03:18:24,Delhi,Android,Google Ads,4.9.0
+358158,2023-11-05 03:54:28,Mumbai,Android,Google Ads,4.9.0
+44594,2023-09-19 03:51:17,Bangalore,iOS,Organic,4.9.0
+361497,2023-10-22 11:48:05,Mumbai,Android,Organic,4.8.1
+209418,2023-09-08 01:31:46,Pune,Android,Organic,4.8.1
+96800,2023-11-13 05:41:35,Mumbai,Android,Instagram,4.8.1
+59095,2023-11-13 11:53:58,Delhi,Android,Facebook,4.9.0
+338599,2023-11-01 03:55:36,Chennai,Android,Organic,4.9.0
+67937,2023-08-29 05:55:22,Bangalore,iOS,Organic,4.9.0
+316402,2023-12-27 22:09:15,Bangalore,Android,Instagram,4.8.1
+150577,2023-09-22 01:45:45,Mumbai,Android,Facebook,4.8.1
+335897,2023-08-29 06:59:43,Hyderabad,iOS,Organic,4.9.0
+125542,2023-12-05 21:35:11,Chennai,Android,Organic,4.9.0
+288808,2023-12-24 05:23:19,Chennai,Android,Organic,4.8.1
+85091,2023-11-03 20:30:03,Hyderabad,Android,Referral,4.9.0
+217363,2023-09-02 23:49:43,Bangalore,Android,Organic,4.8.1
+201535,2023-11-24 09:38:35,Delhi,Android,Organic,4.8.1
+260844,2023-12-28 09:20:52,Bangalore,Android,Referral,4.9.0
+111411,2023-07-02 20:39:35,Delhi,Android,Organic,4.8.1
+263075,2023-09-24 01:29:29,Hyderabad,iOS,Instagram,4.9.0
+326505,2023-07-31 21:04:27,Mumbai,Android,Organic,4.8.1
+51675,2023-10-24 04:25:07,Bangalore,Android,Organic,4.8.1
+385191,2023-11-15 05:53:29,Mumbai,Android,Referral,4.8.1
+96666,2023-09-16 00:47:03,Hyderabad,Android,Organic,4.9.0
+285937,2023-09-27 23:14:01,Mumbai,Android,Facebook,4.9.0
+175327,2023-11-18 19:00:11,Bangalore,Android,Referral,4.9.0
+396815,2023-09-19 18:32:17,Delhi,iOS,Organic,4.8.1
+130237,2023-07-16 13:20:27,Chennai,Android,Google Ads,4.8.1
+383826,2023-12-22 18:37:15,Bangalore,Android,Organic,4.9.0
+201438,2023-08-18 05:21:40,Bangalore,Android,Facebook,4.9.0
+88406,2023-09-25 10:10:48,Bangalore,Android,Organic,4.9.0
+143721,2023-10-15 05:57:55,Mumbai,Android,Referral,4.8.1
+215219,2023-09-30 06:07:59,Mumbai,Android,Organic,4.9.0
+361846,2023-07-06 18:12:42,Mumbai,Android,Organic,4.9.0
+402215,2023-11-19 15:15:01,Bangalore,Android,Instagram,4.8.1
+299221,2023-08-22 23:43:58,Hyderabad,iOS,Instagram,4.9.0
+72322,2023-08-16 17:36:16,Mumbai,iOS,Organic,4.8.1
+207281,2023-10-29 06:52:56,Hyderabad,iOS,Organic,4.9.0
+81828,2023-08-16 10:08:32,Pune,iOS,Instagram,4.9.0
+283331,2023-08-22 05:15:32,Bangalore,Android,Facebook,4.9.0
+400390,2023-09-03 09:01:07,Delhi,iOS,Organic,4.9.0
+89889,2023-08-30 14:46:36,Hyderabad,Android,Referral,4.8.1
+48444,2023-08-26 13:00:11,Hyderabad,iOS,Organic,4.9.0
+69749,2023-09-09 21:45:19,Delhi,iOS,Instagram,4.8.1
+108659,2023-10-31 07:43:24,Delhi,Android,Organic,4.8.1
+47594,2023-07-19 12:33:16,Pune,iOS,Organic,4.9.0
+116992,2023-08-08 07:45:49,Bangalore,Android,Instagram,4.9.0
+58088,2023-10-07 12:10:10,Bangalore,Android,Organic,4.9.0
+120504,2023-10-19 14:13:16,Delhi,Android,Referral,4.8.1
+42274,2023-11-28 17:06:13,Mumbai,Android,Organic,4.9.0
+398930,2023-07-29 21:21:21,Bangalore,Android,Organic,4.9.0
+364714,2023-11-06 01:57:06,Bangalore,Android,Organic,4.8.1
+243910,2023-11-30 06:36:47,Bangalore,iOS,Referral,4.8.1
+45837,2023-11-29 00:01:08,Chennai,Android,Organic,4.8.1
+359228,2023-07-07 15:47:58,Bangalore,iOS,Referral,4.8.1
+140757,2023-08-30 00:58:00,Hyderabad,iOS,Instagram,4.9.0
+154339,2023-07-14 15:14:09,Bangalore,iOS,Instagram,4.9.0
+142192,2023-08-05 15:36:41,Hyderabad,iOS,Organic,4.9.0
+49086,2023-11-29 04:01:59,Bangalore,Android,Organic,4.9.0
+127445,2023-09-21 14:13:49,Mumbai,iOS,Organic,4.8.1
+43636,2023-11-16 07:49:05,Bangalore,iOS,Organic,4.9.0
+88078,2023-08-10 02:20:42,Delhi,Android,Organic,4.9.0
+57638,2023-10-20 20:15:40,Bangalore,Android,Google Ads,4.9.0
+88075,2023-08-08 08:44:52,Mumbai,Android,Organic,4.8.1
+66498,2023-11-23 15:00:06,Chennai,Android,Organic,4.9.0
+152675,2023-08-24 15:00:07,Mumbai,Android,Organic,4.8.1
+387102,2023-09-11 17:51:28,Mumbai,Android,Google Ads,4.8.1
+142045,2023-07-13 20:26:29,Hyderabad,Android,Organic,4.9.0
+59703,2023-10-06 09:52:00,Hyderabad,Android,Google Ads,4.8.1
+100065,2023-11-22 05:10:55,Mumbai,iOS,Organic,4.9.0
+50563,2023-08-15 06:55:42,Pune,Android,Instagram,4.9.0
+61889,2023-10-07 09:30:24,Mumbai,Android,Instagram,4.9.0
+91105,2023-09-25 10:40:10,Mumbai,Android,Organic,4.8.1
+355759,2023-07-19 22:12:36,Delhi,Android,Organic,4.8.1
+49620,2023-12-21 05:14:01,Hyderabad,iOS,Organic,4.8.1
+290313,2023-10-07 15:43:58,Bangalore,Android,Organic,4.9.0
+45846,2023-10-26 12:53:44,Mumbai,Android,Google Ads,4.8.1
+106940,2023-08-27 21:10:45,Pune,Android,Instagram,4.8.1
+125320,2023-08-21 15:50:18,Bangalore,Android,Google Ads,4.8.1
+332635,2023-10-22 02:23:22,Delhi,iOS,Instagram,4.8.1
+341136,2023-11-10 23:39:28,Bangalore,Android,Organic,4.9.0
+56642,2023-10-27 20:49:16,Mumbai,Android,Organic,4.9.0
+95049,2023-08-20 07:09:20,Bangalore,Android,Google Ads,4.8.1
+333216,2023-09-21 19:09:28,Hyderabad,Android,Organic,4.9.0
+96262,2023-08-07 15:08:18,Delhi,Android,Google Ads,4.9.0
+270789,2023-08-21 16:19:10,Hyderabad,Android,Organic,4.9.0
+82901,2023-10-06 02:16:52,Mumbai,Android,Organic,4.9.0
+366327,2023-09-22 21:51:43,Delhi,Android,Facebook,4.9.0
+127056,2023-08-26 16:26:30,Chennai,Android,Organic,4.9.0
+175703,2023-09-10 15:19:33,Bangalore,iOS,Facebook,4.8.1
+372415,2023-07-16 07:38:03,Hyderabad,iOS,Facebook,4.9.0
+147519,2023-07-20 22:25:20,Bangalore,Android,Instagram,4.9.0
+64370,2023-12-01 21:59:32,Pune,iOS,Google Ads,4.8.1
+128216,2023-12-28 03:30:38,Chennai,Android,Referral,4.8.1
+59742,2023-07-27 23:55:17,Mumbai,Android,Instagram,4.9.0
+210544,2023-11-27 14:28:18,Chennai,iOS,Organic,4.9.0
+134058,2023-08-06 23:52:20,Mumbai,iOS,Referral,4.9.0
+50323,2023-12-03 00:15:18,Mumbai,iOS,Google Ads,4.9.0
+334596,2023-12-15 03:30:44,Bangalore,Android,Organic,4.9.0
+117033,2023-12-20 05:25:08,Delhi,Android,Organic,4.9.0
+342126,2023-12-15 00:00:36,Bangalore,iOS,Organic,4.9.0
+40745,2023-12-05 19:51:37,Delhi,Android,Referral,4.9.0
+155555,2023-10-07 23:31:21,Delhi,Android,Instagram,4.9.0
+384390,2023-11-19 16:50:26,Delhi,Android,Organic,4.9.0
+375585,2023-09-01 08:30:08,Bangalore,Android,Facebook,4.8.1
+119465,2023-11-17 08:48:20,Hyderabad,Android,Google Ads,4.9.0
+373750,2023-09-04 21:14:53,Bangalore,Android,Instagram,4.9.0
+101241,2023-10-04 11:02:32,Hyderabad,iOS,Referral,4.8.1
+54189,2023-07-13 14:02:21,Bangalore,Android,Instagram,4.9.0
+317904,2023-09-10 16:53:20,Pune,Android,Organic,4.9.0
+139639,2023-08-16 00:47:46,Mumbai,Android,Instagram,4.8.1
+80795,2023-09-03 08:09:16,Hyderabad,Android,Organic,4.9.0
+339144,2023-08-05 02:09:16,Hyderabad,Android,Instagram,4.9.0
+144133,2023-07-10 18:18:43,Hyderabad,Android,Facebook,4.9.0
+44472,2023-10-12 09:54:05,Mumbai,iOS,Organic,4.8.1
+344079,2023-12-08 02:24:00,Mumbai,Android,Organic,4.9.0
+214028,2023-12-01 17:56:55,Chennai,iOS,Instagram,4.9.0
+165485,2023-08-16 18:21:19,Hyderabad,Android,Organic,4.8.1
+77339,2023-07-02 01:36:33,Pune,Android,Instagram,4.9.0
+140998,2023-11-11 22:02:03,Chennai,Android,Organic,4.9.0
+296805,2023-11-29 11:47:42,Bangalore,Android,Organic,4.8.1
+376499,2023-07-14 17:41:27,Pune,iOS,Facebook,4.9.0
+359699,2023-11-09 21:44:06,Bangalore,Android,Google Ads,4.9.0
+240982,2023-12-27 04:16:25,Delhi,Android,Instagram,4.8.1
+81333,2023-10-11 23:19:21,Hyderabad,iOS,Organic,4.8.1
+146489,2023-08-08 14:20:17,Chennai,iOS,Google Ads,4.8.1
+101347,2023-12-24 16:37:09,Chennai,iOS,Referral,4.8.1
+115419,2023-11-16 13:11:17,Delhi,Android,Google Ads,4.9.0
+59017,2023-12-09 09:12:34,Delhi,iOS,Google Ads,4.9.0
+279715,2023-08-01 10:18:34,Hyderabad,Android,Referral,4.8.1
+67844,2023-12-01 14:12:01,Bangalore,Android,Organic,4.8.1
+220186,2023-07-31 18:29:31,Hyderabad,Android,Organic,4.8.1
+399373,2023-08-25 22:52:37,Bangalore,Android,Instagram,4.9.0
+99312,2023-12-03 14:15:07,Delhi,Android,Organic,4.8.1
+319773,2023-10-25 12:45:56,Hyderabad,Android,Google Ads,4.9.0
+61212,2023-10-31 19:41:17,Pune,iOS,Organic,4.9.0
+297413,2023-09-21 04:49:33,Mumbai,Android,Google Ads,4.8.1
+399584,2023-11-14 23:15:06,Delhi,Android,Google Ads,4.9.0
+216258,2023-08-26 15:01:12,Bangalore,Android,Organic,4.9.0
+57878,2023-07-06 13:48:00,Chennai,iOS,Organic,4.9.0
+109107,2023-08-29 18:54:39,Chennai,Android,Organic,4.9.0
+297232,2023-12-21 03:56:46,Hyderabad,Android,Google Ads,4.8.1
+282699,2023-09-10 12:42:22,Mumbai,iOS,Instagram,4.8.1
+113238,2023-11-05 14:35:02,Delhi,iOS,Organic,4.9.0
+94766,2023-08-31 04:38:38,Bangalore,Android,Google Ads,4.8.1
+155124,2023-12-17 22:08:36,Mumbai,Android,Organic,4.8.1
+36118,2023-12-03 04:45:08,Hyderabad,iOS,Referral,4.8.1
+153048,2023-11-09 08:45:01,Bangalore,Android,Facebook,4.8.1
+83095,2023-08-17 11:04:33,Hyderabad,Android,Organic,4.9.0
+183704,2023-07-18 18:07:06,Bangalore,iOS,Referral,4.8.1
+64401,2023-10-09 17:53:54,Bangalore,Android,Organic,4.9.0
+88853,2023-08-10 03:09:26,Bangalore,Android,Organic,4.9.0
+101285,2023-12-24 22:01:09,Pune,Android,Organic,4.9.0
+309983,2023-07-04 18:55:59,Mumbai,Android,Organic,4.8.1
+302131,2023-11-18 11:26:51,Pune,Android,Google Ads,4.9.0
+297674,2023-11-23 17:11:01,Hyderabad,iOS,Organic,4.8.1
+385023,2023-11-08 04:42:25,Hyderabad,Android,Referral,4.9.0
+100148,2023-07-04 16:12:17,Mumbai,Android,Organic,4.9.0
+352827,2023-09-19 11:35:57,Hyderabad,Android,Organic,4.9.0
+333449,2023-07-07 08:50:22,Bangalore,Android,Google Ads,4.9.0
+174796,2023-08-27 13:57:06,Mumbai,iOS,Facebook,4.9.0
+351561,2023-09-29 05:18:54,Bangalore,Android,Organic,4.8.1
+145962,2023-07-30 18:53:39,Mumbai,Android,Instagram,4.9.0
+49104,2023-07-29 09:35:52,Mumbai,Android,Referral,4.9.0
+133330,2023-10-21 21:05:41,Bangalore,Android,Referral,4.8.1
+390232,2023-09-23 02:16:00,Bangalore,Android,Referral,4.9.0
+138462,2023-10-28 10:54:15,Delhi,Android,Organic,4.9.0
+180618,2023-07-16 15:50:38,Hyderabad,iOS,Organic,4.9.0
+346280,2023-10-08 23:51:23,Bangalore,Android,Google Ads,4.9.0
+41746,2023-08-23 21:48:13,Pune,Android,Organic,4.9.0
+385134,2023-08-19 08:38:14,Bangalore,Android,Facebook,4.8.1
+45164,2023-07-09 04:34:49,Delhi,iOS,Organic,4.9.0
+62540,2023-11-26 13:40:02,Pune,Android,Organic,4.8.1
+371117,2023-10-24 19:02:40,Bangalore,Android,Google Ads,4.9.0
+85782,2023-07-16 00:08:36,Bangalore,Android,Organic,4.8.1
+164626,2023-12-22 03:16:44,Bangalore,Android,Referral,4.8.1
+62912,2023-11-04 08:59:47,Hyderabad,iOS,Google Ads,4.9.0
+93113,2023-10-24 02:33:45,Bangalore,Android,Facebook,4.9.0
+222734,2023-08-10 02:02:31,Delhi,Android,Instagram,4.8.1
+126798,2023-10-20 17:34:08,Bangalore,iOS,Google Ads,4.9.0
+154471,2023-12-11 16:23:44,Mumbai,iOS,Google Ads,4.8.1
+206039,2023-07-22 11:16:11,Pune,iOS,Facebook,4.8.1
+327651,2023-10-13 14:46:47,Delhi,iOS,Organic,4.9.0
+66012,2023-11-21 18:53:56,Mumbai,Android,Organic,4.9.0
+111909,2023-12-20 11:57:21,Hyderabad,Android,Organic,4.8.1
+384411,2023-12-27 20:39:33,Mumbai,Android,Organic,4.8.1
+45577,2023-07-22 09:43:16,Mumbai,Android,Google Ads,4.8.1
+286386,2023-12-30 02:36:49,Hyderabad,Android,Google Ads,4.8.1
+79507,2023-08-01 03:34:36,Bangalore,Android,Referral,4.9.0
+342515,2023-10-13 08:51:09,Chennai,Android,Organic,4.9.0
+92006,2023-07-30 05:55:54,Hyderabad,iOS,Google Ads,4.8.1
+241310,2023-09-14 19:19:06,Bangalore,Android,Organic,4.9.0
+92768,2023-10-01 16:16:47,Hyderabad,iOS,Google Ads,4.9.0
+80466,2023-09-24 11:23:54,Hyderabad,Android,Referral,4.8.1
+304052,2023-09-20 18:03:30,Delhi,Android,Organic,4.9.0
+104355,2023-10-13 17:57:02,Delhi,Android,Organic,4.9.0
+378035,2023-12-01 12:01:26,Delhi,Android,Organic,4.8.1
+68248,2023-11-29 09:49:42,Bangalore,Android,Instagram,4.8.1
+178158,2023-11-13 22:48:47,Hyderabad,iOS,Facebook,4.9.0
+99393,2023-12-20 06:08:30,Hyderabad,Android,Google Ads,4.9.0
+65361,2023-10-01 14:38:02,Bangalore,Android,Organic,4.8.1
+231453,2023-10-13 19:26:45,Bangalore,Android,Organic,4.8.1
+65007,2023-10-26 01:42:39,Delhi,Android,Google Ads,4.9.0
+61722,2023-07-13 09:57:27,Bangalore,iOS,Instagram,4.9.0
+164776,2023-07-19 21:05:07,Mumbai,iOS,Organic,4.9.0
+123535,2023-10-17 23:51:03,Bangalore,Android,Organic,4.9.0
+39406,2023-08-29 02:29:23,Bangalore,Android,Google Ads,4.8.1
+318665,2023-10-04 07:24:39,Bangalore,Android,Organic,4.9.0
+376993,2023-09-13 19:29:28,Pune,iOS,Organic,4.9.0
+68446,2023-10-21 04:53:22,Delhi,Android,Organic,4.9.0
+400950,2023-12-08 06:12:47,Pune,Android,Referral,4.8.1
+377481,2023-09-03 21:23:14,Hyderabad,iOS,Instagram,4.9.0
+180776,2023-12-22 20:18:34,Bangalore,Android,Facebook,4.9.0
+354923,2023-12-21 17:58:52,Mumbai,iOS,Referral,4.9.0
+146555,2023-07-23 13:46:07,Hyderabad,Android,Referral,4.9.0
+69516,2023-07-23 02:45:05,Chennai,Android,Organic,4.8.1
+129206,2023-07-19 12:53:16,Bangalore,Android,Referral,4.9.0
+78067,2023-08-13 21:11:21,Hyderabad,iOS,Organic,4.9.0
+108046,2023-08-29 07:05:22,Bangalore,iOS,Google Ads,4.9.0
+105665,2023-09-28 18:46:42,Hyderabad,Android,Organic,4.9.0
+158578,2023-09-12 11:29:24,Delhi,Android,Organic,4.9.0
+63361,2023-08-18 00:51:16,Hyderabad,Android,Organic,4.8.1
+41205,2023-09-05 05:53:21,Hyderabad,iOS,Organic,4.9.0
+148459,2023-08-31 23:14:35,Hyderabad,Android,Organic,4.8.1
+142753,2023-08-31 02:32:28,Hyderabad,Android,Organic,4.8.1
+96254,2023-07-28 13:45:57,Delhi,Android,Facebook,4.8.1
+53156,2023-11-15 10:48:52,Chennai,iOS,Organic,4.9.0
+386995,2023-09-30 11:34:29,Pune,Android,Referral,4.9.0
+375043,2023-12-19 10:03:44,Delhi,Android,Instagram,4.9.0
+361654,2023-12-05 18:08:04,Hyderabad,Android,Facebook,4.9.0
+73274,2023-07-26 23:38:51,Delhi,iOS,Referral,4.9.0
+159626,2023-12-07 12:08:57,Hyderabad,Android,Instagram,4.8.1
+106860,2023-12-26 13:44:13,Bangalore,Android,Organic,4.9.0
+122092,2023-08-19 03:27:29,Chennai,iOS,Organic,4.8.1
+300208,2023-12-17 20:57:49,Bangalore,Android,Organic,4.8.1
+203442,2023-10-07 03:41:13,Chennai,Android,Google Ads,4.9.0
+301825,2023-11-21 21:39:56,Hyderabad,Android,Google Ads,4.8.1
+192317,2023-09-02 03:29:30,Mumbai,iOS,Organic,4.8.1
+102710,2023-07-13 09:50:00,Mumbai,Android,Organic,4.9.0
+135970,2023-10-30 15:11:21,Chennai,iOS,Google Ads,4.9.0
+102010,2023-11-04 00:51:04,Mumbai,Android,Organic,4.9.0
+363202,2023-08-03 15:15:58,Mumbai,Android,Referral,4.9.0
+124875,2023-11-22 04:18:00,Bangalore,Android,Google Ads,4.9.0
+101957,2023-07-15 03:41:09,Mumbai,iOS,Google Ads,4.9.0
+145216,2023-12-28 15:34:06,Bangalore,Android,Instagram,4.8.1
+300552,2023-11-01 12:34:37,Delhi,iOS,Instagram,4.9.0
+139626,2023-08-06 04:09:14,Mumbai,Android,Referral,4.9.0
+66331,2023-11-22 08:11:42,Delhi,Android,Google Ads,4.9.0
+168420,2023-10-22 15:15:59,Bangalore,Android,Google Ads,4.9.0
+239985,2023-11-01 11:47:08,Bangalore,iOS,Organic,4.8.1
+317515,2023-11-06 23:59:12,Delhi,Android,Organic,4.8.1
+114476,2023-12-19 00:15:21,Bangalore,Android,Organic,4.9.0
+71249,2023-08-25 08:34:43,Bangalore,Android,Organic,4.8.1
+316223,2023-09-14 06:00:32,Bangalore,iOS,Google Ads,4.9.0
+377771,2023-11-01 13:37:11,Pune,Android,Instagram,4.8.1
+113817,2023-10-16 16:04:00,Delhi,iOS,Organic,4.9.0
+39702,2023-12-23 09:09:54,Hyderabad,Android,Organic,4.9.0
+273690,2023-08-16 02:16:28,Bangalore,Android,Facebook,4.8.1
+337230,2023-10-02 13:18:43,Hyderabad,Android,Organic,4.8.1
+378753,2023-10-24 05:34:06,Delhi,iOS,Referral,4.9.0
+146211,2023-09-10 07:18:06,Mumbai,iOS,Referral,4.9.0
+283884,2023-12-11 06:41:02,Bangalore,Android,Referral,4.9.0
+243341,2023-10-16 17:02:47,Bangalore,Android,Organic,4.8.1
+102620,2023-07-08 08:33:25,Bangalore,Android,Organic,4.9.0
+82092,2023-09-25 13:43:41,Mumbai,Android,Organic,4.9.0
+41040,2023-08-23 01:18:17,Delhi,Android,Referral,4.8.1
+55689,2023-10-15 12:35:39,Bangalore,Android,Referral,4.9.0
+149268,2023-09-24 19:21:58,Bangalore,Android,Organic,4.8.1
+383688,2023-07-01 18:47:41,Bangalore,Android,Google Ads,4.8.1
+5139,2023-09-18 09:33:11,Pune,Android,Instagram,4.8.1
+274232,2023-09-26 18:59:13,Bangalore,Android,Organic,4.8.1
+351329,2023-09-07 11:03:08,Delhi,Android,Referral,4.8.1
+58800,2023-09-14 21:43:41,Mumbai,Android,Google Ads,4.9.0
+136807,2023-12-07 11:06:34,Hyderabad,iOS,Organic,4.8.1
+84457,2023-10-30 03:23:35,Bangalore,Android,Organic,4.8.1
+211035,2023-07-16 03:11:46,Bangalore,Android,Google Ads,4.8.1
+328331,2023-10-28 21:43:34,Mumbai,Android,Instagram,4.9.0
+68834,2023-12-25 13:15:46,Delhi,Android,Instagram,4.9.0
+111894,2023-08-03 14:00:14,Mumbai,Android,Referral,4.9.0
+100889,2023-08-04 08:00:22,Mumbai,Android,Google Ads,4.9.0
+172758,2023-12-23 02:28:58,Bangalore,iOS,Organic,4.9.0
+261371,2023-08-12 22:10:54,Pune,Android,Google Ads,4.8.1
+321492,2023-12-03 12:20:11,Delhi,Android,Referral,4.9.0
+127036,2023-09-23 16:03:56,Bangalore,Android,Organic,4.9.0
+109906,2023-07-02 08:47:13,Pune,Android,Google Ads,4.9.0
+304993,2023-10-13 09:14:33,Mumbai,Android,Referral,4.8.1
+97324,2023-11-06 11:01:57,Mumbai,iOS,Organic,4.9.0
+48282,2023-09-06 23:12:34,Delhi,Android,Facebook,4.8.1
+106324,2023-11-08 20:47:46,Delhi,Android,Organic,4.9.0
+138586,2023-07-15 01:38:22,Mumbai,Android,Organic,4.9.0
+97838,2023-12-12 09:00:47,Bangalore,Android,Organic,4.8.1
+292602,2023-12-27 20:43:04,Hyderabad,iOS,Instagram,4.9.0
+397537,2023-11-28 15:10:46,Chennai,Android,Google Ads,4.8.1
