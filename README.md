@@ -45,6 +45,89 @@ The project simulates how a Product Data Analyst would evaluate a new recommenda
   * GitHub
 
 ---
+## 📁 Project Structure
+
+```text
+foodhub-product-analytics/
+│
+├── data/
+│   ├── raw/
+│   │   └── FoodHub_Order_Dataset.csv
+│   │
+│   └── processed/
+│       ├── foodhub_clean.csv
+│       ├── order_enriched.csv
+│       ├── cohort_analysis.csv
+│       └── user_sessions.csv
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_exploratory_data_analysis.ipynb
+│   ├── 03_ab_testing.ipynb
+│   ├── 04_cohort_analysis.ipynb
+│   └── 05_data_preparation_for_tableau.ipynb
+│
+├── sql/
+│   ├── analytics/
+│   │   ├── 01_create_tables.sql
+│   │   ├── 02_business_queries.sql
+│   │   └── 03_ab_testing_queries.sql
+│   │
+│   ├── views/
+│   │   ├── 01_views.sql
+│   │   └── 02_cohort_views.sql
+│   │
+│   └── README.md
+│
+├── tableau/
+│   ├── FoodHub_Product_Analytics.twbx
+│   └── README.md
+│
+├── images/
+│   ├── dashboard1_executive_summary.png
+│   ├── dashboard2_customer_revenue.png
+│   ├── dashboard3_ab_testing.png
+│   ├── dashboard4_operational_performance.png
+│   ├── dashboard5_cohort_retention.png
+│   ├── dashboard6_experiment_retention.png
+│   └── architecture.png
+│
+├── docs/
+│   ├── business_problem.pdf
+│   ├── dashboard_wireframes.pdf
+│   └── project_report.pdf
+│
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+## 🔄 Project Architecture
+
+```text
+                Raw Dataset
+                     │
+                     ▼
+          Python Data Cleaning
+                     │
+                     ▼
+        Feature Engineering & EDA
+                     │
+                     ▼
+          Processed CSV Files
+                     │
+                     ▼
+              MySQL Database
+                     │
+                     ▼
+      SQL Tables, Views & Analytics
+                     │
+                     ▼
+           Tableau Dashboards
+                     │
+                     ▼
+        Business Insights & Reporting
+```
 
 ## 📂 Project Workflow
 
