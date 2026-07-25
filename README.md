@@ -74,14 +74,14 @@ foodhub-product-analytics/
 │   │   └── 03_ab_testing_queries.sql
 │   │
 │   ├── views/
-│   │   ├── 01_views.sql
-│   │   └── 02_cohort_views.sql
-│   │
-│   └── README.md
+│       ├── 01_views.sql
+│       └── 02_cohort_views.sql
+│   
+│   
 │
 ├── tableau/
 │   ├── FoodHub_Product_Analytics.twbx
-│   └── README.md
+│   
 │
 ├── images/
 │   ├── dashboard1_executive_summary.png
@@ -91,11 +91,6 @@ foodhub-product-analytics/
 │   ├── dashboard5_cohort_retention.png
 │   ├── dashboard6_experiment_retention.png
 │   └── architecture.png
-│
-├── docs/
-│   ├── business_problem.pdf
-│   ├── dashboard_wireframes.pdf
-│   └── project_report.pdf
 │
 ├── requirements.txt
 ├── .gitignore
