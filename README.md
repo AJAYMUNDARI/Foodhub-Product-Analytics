@@ -45,7 +45,7 @@ The project simulates how a Product Data Analyst would evaluate a new recommenda
   * GitHub
 
 ---
-## 📁 Project Structure
+## 📁 Repository Structure
 
 ```text
 foodhub-product-analytics/
@@ -65,7 +65,6 @@ foodhub-product-analytics/
 │   ├── 02_exploratory_data_analysis.ipynb
 │   ├── 03_ab_testing.ipynb
 │   ├── 04_cohort_analysis.ipynb
-│   └── 05_data_preparation_for_tableau.ipynb
 │
 ├── sql/
 │   ├── analytics/
@@ -76,12 +75,9 @@ foodhub-product-analytics/
 │   ├── views/
 │       ├── 01_views.sql
 │       └── 02_cohort_views.sql
-│   
-│   
 │
 ├── tableau/
 │   ├── FoodHub_Product_Analytics.twbx
-│   
 │
 ├── images/
 │   ├── dashboard1_executive_summary.png
@@ -93,8 +89,6 @@ foodhub-product-analytics/
 │   └── architecture.png
 │
 ├── requirements.txt
-├── .gitignore
-├── LICENSE
 └── README.md
 ```
 ## 🔄 Project Architecture
@@ -264,44 +258,6 @@ Combines A/B Testing with Cohort Analysis to evaluate whether the Variant group 
 * Customer ratings remained consistently high.
 * Cohort analysis revealed customer retention trends across acquisition months.
 * Product experiment performance was evaluated using both immediate and long-term success metrics.
-
----
-
-## 🗂️ Repository Structure
-
-```text
-foodhub-product-analytics/
-
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_ab_testing.ipynb
-│   └── 04_cohort_analysis.ipynb
-│
-├── sql/
-│   ├── 01_create_tables.sql
-│   ├── 02_views.sql
-│   └── 03_business_queries.sql
-│
-├── tableau/
-│   └── FoodHub_Product_Analytics.twbx
-│
-├── images/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   ├── dashboard3.png
-│   ├── dashboard4.png
-│   ├── dashboard5.png
-│   └── dashboard6.png
-│
-├── README.md
-└── requirements.txt
-```
 
 ---
 
