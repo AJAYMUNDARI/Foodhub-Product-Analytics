@@ -1,8 +1,9 @@
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
-
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 # 🍔 FoodHub Product Analytics: End-to-End Data Analytics Project
 
