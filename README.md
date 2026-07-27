@@ -2,22 +2,125 @@
 
 ## 📌 Project Overview
 
-FoodHub is a food delivery platform that connects customers with restaurants through a mobile application. This project demonstrates an end-to-end product analytics workflow using **Python, MySQL, and Tableau** to analyze customer behavior, business performance, operational efficiency, and the impact of product experiments.
+FoodHub is a food delivery platform that connects customers with restaurants through its mobile application. As customer expectations evolve, businesses continuously introduce new product features to improve user engagement, increase conversions, and maximize revenue.
 
-The project simulates how a Product Data Analyst would evaluate a new recommendation feature using A/B testing while monitoring customer retention, revenue, and operational KPIs.
+This project demonstrates an end-to-end Product Analytics workflow using **Python, MySQL, and Tableau** to evaluate customer behavior, measure business performance, assess the effectiveness of a product experiment through A/B Testing, and analyze long-term customer retention using Cohort Analysis.
 
----
-
-## 🎯 Business Objectives
-
-* Analyze customer ordering behavior and revenue trends.
-* Evaluate the impact of a recommendation engine using A/B Testing.
-* Measure customer retention through Cohort Analysis.
-* Monitor operational KPIs such as delivery time and food preparation time.
-* Build interactive dashboards to support business decision-making.
+The project simulates how Product Analysts support business decisions by transforming raw data into actionable insights.
 
 ---
 
+# 🎯 Business Problem
+
+FoodHub introduced a new **restaurant recommendation feature** designed to encourage customers to discover more restaurants and increase ordering activity.
+
+Before rolling out the feature to all users, the Product Team wanted to answer several critical business questions:
+
+* Does the recommendation feature improve customer engagement?
+* Does it increase cart creation and completed orders?
+* Does it improve Average Order Value?
+* Does it negatively affect delivery performance?
+* Do customers continue using the platform after experiencing the new feature?
+* Should the company launch the feature for all customers?
+
+The objective was to make this decision using statistical evidence and business analytics rather than intuition.
+
+---
+
+# 🎯 Business Objectives
+
+This project aims to:
+
+* Analyze customer purchasing behavior and ordering trends.
+* Evaluate the effectiveness of the recommendation feature using A/B Testing.
+* Compare customer engagement between the Control and Variant groups.
+* Analyze revenue, operational efficiency, and customer satisfaction.
+* Measure customer retention using Cohort Analysis.
+* Build interactive dashboards to support product and business decisions.
+* Provide actionable recommendations backed by data.
+
+---
+
+# ❓ Business Questions
+
+The analysis answers the following business questions:
+
+### Product Analytics
+
+* Did the new recommendation feature improve customer engagement?
+* Did users create more carts after seeing recommendations?
+* Did the Variant group outperform the Control group?
+* Was the improvement statistically significant?
+
+### Customer Analytics
+
+* Which customers generated the highest revenue?
+* Which cities contributed the most revenue?
+* Which acquisition channels performed best?
+* Which device types generated the highest engagement?
+
+### Restaurant Analytics
+
+* Which restaurants generated the highest revenue?
+* Which cuisines were most popular?
+* Which restaurants maintained the highest customer ratings?
+
+### Operational Analytics
+
+* Was delivery performance affected by the experiment?
+* Which restaurants required the longest preparation time?
+* Did delivery time influence customer ratings?
+
+### Retention Analytics
+
+* How many customers returned after their first order?
+* Which acquisition cohorts retained customers the longest?
+* Did the Variant group improve long-term customer retention?
+
+---
+
+# 💼 Business Decisions Supported
+
+The insights generated from this project can help decision-makers:
+
+* Decide whether to launch the recommendation feature for all users.
+* Improve customer engagement strategies.
+* Optimize restaurant recommendations.
+* Identify high-performing restaurant partners.
+* Improve delivery operations.
+* Allocate marketing budgets more effectively.
+* Design customer retention campaigns.
+* Improve long-term product growth.
+
+---
+
+## 🔄 Project Architecture
+
+```text
+                Raw Dataset
+                     │
+                     ▼
+          Python Data Cleaning
+                     │
+                     ▼
+        Feature Engineering & EDA
+                     │
+                     ▼
+          Processed CSV Files
+                     │
+                     ▼
+              MySQL Database
+                     │
+                     ▼
+      SQL Tables, Views & Analytics
+                     │
+                     ▼
+           Tableau Dashboards
+                     │
+                     ▼
+        Business Insights & Reporting
+```
+---
 ## 🛠️ Tech Stack
 
 * **Python**
@@ -91,33 +194,7 @@ foodhub-product-analytics/
 ├── requirements.txt
 └── README.md
 ```
-## 🔄 Project Architecture
-
-```text
-                Raw Dataset
-                     │
-                     ▼
-          Python Data Cleaning
-                     │
-                     ▼
-        Feature Engineering & EDA
-                     │
-                     ▼
-          Processed CSV Files
-                     │
-                     ▼
-              MySQL Database
-                     │
-                     ▼
-      SQL Tables, Views & Analytics
-                     │
-                     ▼
-           Tableau Dashboards
-                     │
-                     ▼
-        Business Insights & Reporting
-```
-
+---
 ## 📂 Project Workflow
 
 ### 1. Data Cleaning
@@ -249,15 +326,29 @@ Combines A/B Testing with Cohort Analysis to evaluate whether the Variant group 
 
 ---
 
-## 📈 Key Insights
+# 📈 Key Insights
 
-* Recommendation Variant increased customer engagement.
-* Cart Creation Rate improved compared to the Control group.
-* Average Order Value increased after the experiment.
-* Delivery time showed operational improvement.
-* Customer ratings remained consistently high.
-* Cohort analysis revealed customer retention trends across acquisition months.
-* Product experiment performance was evaluated using both immediate and long-term success metrics.
+* The Variant group achieved a higher Cart Creation Rate than the Control group.
+* Average Order Value increased for users exposed to the recommendation feature.
+* Statistical testing indicated a significant difference between the experiment groups.
+* Delivery performance remained stable following the experiment.
+* Customer retention gradually declined over time, which is expected in subscription and marketplace businesses.
+* Certain customer cohorts demonstrated stronger long-term engagement than others.
+* The recommendation feature positively influenced both immediate engagement metrics and longer-term customer retention.
+
+---
+
+# 💡 Business Recommendations
+
+Based on the analysis:
+
+* Roll out the recommendation feature after continued monitoring.
+* Personalize recommendations using customer preferences.
+* Improve onboarding to increase first-month retention.
+* Promote highly rated restaurants with lower visibility.
+* Reduce delivery delays during peak hours.
+* Launch targeted retention campaigns for customers with declining engagement.
+* Continue monitoring experiment performance using long-term retention metrics.
 
 ---
 
