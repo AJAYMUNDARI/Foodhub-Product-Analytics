@@ -174,7 +174,7 @@ foodhub-product-analytics/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_exploratory_data_analysis.ipynb
 │   ├── 03_ab_testing.ipynb
-│   ├── 04_cohort_analysis.ipynb
+│   └── 04_cohort_analysis.ipynb
 │
 ├── sql/
 │   ├── analytics/
@@ -187,7 +187,7 @@ foodhub-product-analytics/
 │       └── 02_cohort_views.sql
 │
 ├── tableau/
-│   ├── FoodHub_Product_Analytics.twbx
+│   └── FoodHub_Product_Analytics.twbx
 │
 ├── images/
 │   ├── dashboard1_executive_summary.png
@@ -195,8 +195,7 @@ foodhub-product-analytics/
 │   ├── dashboard3_ab_testing.png
 │   ├── dashboard4_operational_performance.png
 │   ├── dashboard5_cohort_retention.png
-│   ├── dashboard6_experiment_retention.png
-│   └── architecture.png
+│   └── dashboard6_experiment_retention.png
 │
 ├── requirements.txt
 └── README.md
